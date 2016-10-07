@@ -1,0 +1,5098 @@
+biasp absolvovat 
+biasp absorbovat 
+biasp adresovat 
+biasp akceptovat 
+biasp aktivovat 
+biasp aktivovat se
+biasp aktualizovat 
+impf analyzovat 
+biasp angažovat 
+biasp angažovat se
+impf apelovat 
+biasp aplikovat 
+impf argumentovat 
+impf asistovat 
+impf balit 
+iter balívat 
+impf balit se
+iter balívat se
+impf bát se
+iter bávat se
+impf bavit 
+iter bavívat 
+impf bavit se
+iter bavívat se
+impf bdít 
+iter bdívat 
+impf běhat 
+iter běhávat 
+impf běžet 
+impf bít 
+impf bít se
+impf blahopřát 
+impf blížit se
+iter blížívat se
+biasp blokovat 
+iter blokovávat 
+impf bloudit 
+iter bloudívat 
+impf bodat 
+pf bodnout 
+impf bodovat 
+impf bojovat 
+impf bolet 
+iter bolívat 
+impf bombardovat 
+impf bránit 
+iter bránívat 
+impf brát 
+pf vzít 
+iter brávat 
+impf brát se
+pf vzít se
+iter brávat se
+impf brát si
+pf vzít si
+iter brávat si
+impf brečet 
+iter brečívat 
+impf bručet 
+iter bručívat 
+impf brzdit 
+iter brzdívat 
+impf budit 
+iter budívat 
+impf budit se
+iter budívat se
+impf budovat 
+impf bušit 
+iter bušívat 
+impf bydlet 
+impf bydlit 
+impf být 
+iter bývat 
+impf cenit1 
+impf cenit2 
+impf cestovat 
+iter cestovávat 
+impf cítit 
+iter cítívat 
+impf cítit se
+iter cítívat se
+biasp citovat 
+iter citovávat 
+impf cpát 
+iter cpávat 
+impf cpát se
+iter cpávat se
+impf ctít 
+iter ctívat 
+impf cvičit 
+iter cvičívat 
+impf čekat 
+iter čekávat 
+impf čekat se
+impf čelit 
+impf čerpat 
+impf číhat 
+iter číhávat 
+impf činit 
+iter činívat 
+impf činit se
+impf číst 
+iter čítat2 
+iter čítávat 
+impf čistit 
+iter čistívat 
+impf čítat1 
+pf darovat 
+impf dařit se
+iter dařívat se
+impf dávat 
+pf dát 
+iter dávávat 
+impf dávat se
+pf dát se
+iter dávávat se
+impf dávat si
+pf dát si
+iter dávávat si
+biasp datovat 
+biasp datovat se
+impf dbát 
+biasp definovat 
+biasp deklarovat 
+impf děkovat 
+impf děkovat se
+impf dělat 
+iter dělávat 
+impf dělat se
+iter dělávat se
+impf dělat si
+iter dělávat si
+impf dělit 
+iter dělívat 
+impf dělit se
+biasp demonstrovat 
+impf děsit 
+iter děsívat 
+impf děsit se
+iter děsívat se
+impf diktovat 
+iter diktovávat 
+impf dirigovat 
+impf diskutovat 
+impf disponovat 
+biasp distancovat 
+biasp distancovat se
+biasp distribuovat 
+impf dít1 
+impf dít2 se
+impf dívat se
+iter dívávat se
+impf divit se
+iter divívat se
+impf dlužit 
+impf dobíhat 
+pf doběhnout 
+impf dobývat 
+pf dobýt 
+impf dobývat se
+impf docilovat 
+pf docílit 
+impf dočítat 
+pf dočíst 
+impf dočítat se
+pf dočíst se
+pf dočkat 
+pf dočkat se
+impf dodávat 
+pf dodat 
+impf dodržovat 
+pf dodržet 
+impf dohadovat1 
+impf dohodovat 
+pf dohodnout 
+impf dohadovat1 se
+impf dohodovat se
+pf dohodnout se
+impf dohadovat2 se
+impf dohánět 
+pf dohnat 
+pf dohonit 
+impf dohlédat 
+impf dohlížet 
+pf dohlédnout 
+impf dohrávat si
+pf dohrát si
+impf dohrávat 
+pf dohrát 
+impf docházet 
+pf dojít 
+iter docházívat 
+impf dochovávat se
+pf dochovat se
+impf dojíždět 
+pf dojet 
+impf dojímat 
+pf dojmout 
+impf dojímat se
+pf dojmout se
+impf dokazovat 
+pf dokázat1 
+pf dokázat2 
+impf dokládat 
+pf doložit 
+impf dokončovat 
+pf dokončit 
+biasp dokumentovat 
+impf doléhat 
+pf dolehnout 
+iter doléhávat 
+impf domáhat se
+pf domoci se
+impf dominovat 
+impf domlouvat 
+pf domluvit 
+impf domlouvat se
+pf domluvit se
+impf domnívat se
+impf donášet 
+pf donést 
+impf donášet se
+pf donést se
+pf donosit 
+impf donucovat 
+pf donutit 
+impf dopadat 
+pf dopadnout 
+iter dopadávat 
+impf doplácet 
+pf doplatit 
+pf doplatit se
+impf doplňovat 
+pf doplnit 
+impf doplňovat se
+impf doporučovat 
+pf doporučit 
+impf dopouštět1 
+pf dopustit1 
+impf dopouštět1 se
+pf dopustit1 se
+impf dopouštět2 
+pf dopustit2 
+impf dopracovávat 
+pf dopracovat 
+impf dopracovávat se
+pf dopracovat se
+impf dopravovat 
+pf dopravit 
+impf dopravovat se
+pf dopravit se
+impf doprovázet 
+pf doprovodit 
+iter doprovázívat 
+impf dopřávat 
+pf dopřát 
+impf dorážet 
+pf dorazit 
+impf doručovat 
+pf doručit 
+impf dorůstat 
+pf dorůst 
+impf dosazovat 
+pf dosadit 
+pf dosázet 
+impf dosahovat 
+pf dosáhnout 
+impf dospívat 
+pf dospět 
+impf dostávat1 
+pf dostat 
+impf dostávat1 se
+pf dostat se
+impf dostávat2 
+pf dostát 
+impf dostavovat se
+pf dostavit se
+impf dostihovat 
+pf dostihnout 
+impf dotahovat 
+pf dotáhnout 
+impf dotahovat se
+pf dotáhnout se
+impf dotýkat se
+pf dotknout se
+biasp dotovat 
+impf doufat 
+impf dovádět1 
+pf dovést1 
+impf dovádět2 
+impf dovážet 
+pf dovézt 
+impf dovést2 
+impf dovolávat se
+pf dovolat se
+impf dovolovat 
+pf dovolit 
+impf dovolovat se
+pf dovolit se
+impf dovolovat si
+pf dovolit si
+impf dovršovat 
+pf dovršit 
+impf dovršovat se
+pf dovršit se
+impf doznávat 
+pf doznat 
+impf doznávat se
+pf doznat se
+impf dozvídat se
+impf dovídat se
+pf dozvědět se
+pf dovědět se
+impf dožadovat 
+pf dožádat 
+impf dožadovat se
+pf dožádat se
+impf dožínat 
+pf dožít2 
+pf dožnout 
+impf dožívat 
+pf dožít1 
+impf dožívat se
+pf dožít1 se
+impf drát 
+iter drávat 
+impf drát se
+iter drávat se
+impf dráždit 
+iter dráždívat 
+impf drtit 
+iter drtívat 
+impf držet 
+iter držívat 
+impf držet se
+iter držívat se
+impf dřít 
+impf dřít se
+impf dusit 
+iter dusívat 
+impf dusit se
+iter dusívat se
+impf důvěřovat 
+impf dýchat 
+pf dýchnout 
+pf dechnout 
+biasp eliminovat 
+biasp emigrovat 
+biasp evakuovat 
+impf evidovat 
+impf existovat 
+impf experimentovat 
+biasp explodovat 
+biasp exportovat 
+impf fandit 
+biasp fascinovat 
+impf figurovat 
+impf financovat 
+impf formovat 
+impf formovat se
+biasp formulovat 
+impf fotografovat 
+impf foukat 
+pf fouknout 
+iter foukávat 
+impf fungovat 
+biasp garantovat 
+impf hádat 
+iter hádávat 
+impf hádat se
+iter hádávat se
+impf hájit 
+impf hasit 
+iter hasívat 
+impf hasit si
+iter hasívat si
+pf havarovat 
+impf házet 
+pf hodit1 
+impf hemžit se
+impf hladit 
+iter hladívat 
+impf hlásat 
+iter hlásávat 
+impf hlásit 
+iter hlásívat 
+impf hlásit se
+iter hlásívat se
+impf hlasovat 
+impf hledat 
+iter hledávat 
+impf hledět 
+iter hledívat 
+impf hledět si
+iter hledívat si
+impf hlídat 
+iter hlídávat 
+impf hloubit 
+iter hloubívat 
+impf hloubit se
+impf hnát 
+iter hnávat 
+impf hnát se
+iter hnávat se
+impf hýbat 
+pf hnout 
+pf hýbnout 
+impf hýbat se
+pf hnout se
+impf hodit2 se
+impf hodlat 
+impf hodnotit 
+iter hodnotívat 
+impf honit 
+iter honívat 
+impf honit se
+iter honívat se
+impf hořet 
+biasp hospitalizovat 
+impf hospodařit 
+impf hostit 
+iter hostívat 
+impf hostovat 
+impf houpat 
+pf houpnout 
+iter houpávat 
+impf houpat se
+pf houpnout se
+iter houpávat se
+impf hovořit 
+iter hovořívat 
+impf hrabat 
+pf hrábnout 
+iter hrabávat 
+impf hrabat se
+impf hradit1 
+iter hradívat1 
+impf hradit2 
+iter hradívat2 
+impf hrát 
+iter hrávat 
+impf hrát si
+iter hrávat si
+impf hrnout 
+impf hrnout se
+impf hromadit 
+impf hromadit se
+impf hroutit se
+impf hrozit 
+iter hrozívat 
+impf hrozit se
+iter hrozívat se
+impf hřát 
+iter hřávat 
+impf hřát se
+iter hřávat se
+impf chápat 
+impf chápat se
+pf chopit se
+biasp charakterizovat 
+impf chátrat 
+impf chlubit se
+iter chlubívat se
+impf chodit 
+iter chodívat 
+impf chovat 
+iter chovávat 
+impf chovat se
+iter chovávat se
+impf chránit 
+iter chránívat 
+impf chránit se
+iter chránívat se
+impf chtít 
+impf chtít se
+impf chutnat 
+iter chutnávat 
+impf chválit 
+iter chválívat 
+impf chvět 
+impf chvět se
+impf chybět 
+iter chybívat 
+impf chybovat 
+pf chybit 
+impf chystat 
+iter chystávat 
+impf chystat se
+iter chystávat se
+impf chytat 
+pf chytit 
+pf chytnout 
+iter chytávat 
+impf chytat se
+pf chytit se
+pf chytnout se
+pf chytit se
+pf chytnout se
+iter chytávat se
+biasp identifikovat 
+biasp identifikovat se
+impf ignorovat 
+biasp ilustrovat 
+biasp informovat 
+biasp informovat se
+biasp iniciovat 
+biasp inkasovat 
+biasp inspirovat 
+biasp inspirovat se
+biasp instalovat 
+biasp integrovat 
+biasp integrovat se
+biasp interpretovat 
+biasp investovat 
+biasp izolovat 
+biasp izolovat se
+impf jásat 
+iter jásávat 
+impf jednat 
+iter jednávat 
+impf jednat se
+iter jednávat se
+impf jet 
+impf jevit 
+impf jevit se
+impf jezdit 
+iter jezdívat 
+impf jímat 
+pf jmout 
+iter jímávat 
+impf jíst 
+iter jídat 
+impf jít 
+biasp jmenovat1 
+impf jmenovat2 se
+pf jmout se
+impf kandidovat 
+impf kašlat 
+iter kašlávat 
+impf kázat 
+impf kazit 
+iter kazívat 
+impf kazit se
+iter kazívat se
+impf klamat 
+iter klamávat 
+impf klamat se
+iter klamávat se
+impf klást 
+impf klást se
+impf klepat se
+iter klepávat se
+impf klepat 
+pf klepnout 
+iter klepávat 
+impf klesat 
+pf klesnout 
+iter klesávat 
+impf klouzat 
+pf klouznout 
+iter klouzávat 
+impf klouzat se
+impf kolísat 
+impf kolovat 
+impf kombinovat 
+impf kombinovat se
+biasp komentovat 
+biasp kompenzovat 
+impf komplikovat 
+impf komplikovat se
+impf komunikovat 
+impf konat 
+iter konávat 
+impf konat se
+iter konávat se
+biasp koncentrovat 
+biasp koncentrovat se
+impf koncertovat 
+iter koncertovávat 
+biasp koncipovat 
+impf končit 
+iter končívat 
+biasp konfrontovat 
+impf konkurovat 
+biasp konstatovat 
+impf konstruovat 
+biasp kontaktovat 
+impf kontrastovat 
+impf kontrolovat 
+impf konzultovat 
+biasp konzumovat 
+biasp koordinovat 
+impf kopat 
+pf kopnout 
+iter kopávat 
+impf kopírovat 
+impf korespondovat 
+biasp korigovat 
+biasp korunovat 
+impf koukat 
+pf kouknout 
+iter koukávat 
+impf koupat 
+iter koupávat 
+impf koupat se
+iter koupávat se
+impf kupovat 
+pf koupit 
+iter kupovávat 
+impf kouřit 
+iter kouřívat 
+impf kouřit se
+iter kouřívat se
+impf kráčet 
+iter kráčívat 
+impf kralovat 
+impf krást 
+impf krást se
+impf krátit 
+iter krátívat 
+impf krátit se
+iter krátívat se
+impf krčit 
+iter krčívat 
+impf krčit se
+iter krčívat se
+impf kreslit 
+iter kreslívat 
+impf kritizovat 
+impf krmit 
+iter krmívat 
+impf kroutit 
+iter kroutívat 
+impf kroutit se
+iter kroutívat se
+impf kroužit 
+iter kroužívat 
+impf krýt 
+impf krýt se
+impf křičet 
+pf křiknout 
+iter křičívat 
+biasp kvalifikovat 
+biasp kvalifikovat se
+impf kvést 
+impf kývat se
+impf kývat 
+pf kývnout 
+impf ladit 
+iter ladívat 
+impf lákat 
+iter lákávat 
+impf lámat 
+impf lámat se
+impf lámat si
+impf léčit 
+iter léčívat 
+impf lehat 
+pf lehnout 
+iter lehávat 
+impf lekat1 
+iter lekávat1 
+impf lekat1 se
+pf leknout1 se
+iter lekávat1 se
+impf lekat2 
+pf leknout2 
+impf lepit 
+iter lepívat 
+impf lepit se
+iter lepívat se
+impf lepšit se
+impf lesknout se
+impf létat 
+impf letět 
+impf lézt 
+impf ležet 
+iter léhat 
+iter líhat 
+iter léhávat 
+iter líhávat 
+impf lhát 
+impf líbat 
+iter líbávat 
+impf líbat se
+iter líbávat se
+impf líbit se
+iter líbívat se
+impf libovat si
+impf líčit1 
+iter líčívat1 
+impf líčit2 
+iter líčívat2 
+biasp likvidovat 
+biasp limitovat 
+impf linout se
+impf listovat 
+impf lišit 
+iter lišívat 
+impf lišit se
+iter lišívat se
+impf lít 
+impf lít se
+impf litovat 
+impf loučit se
+iter loučívat se
+impf lovit 
+iter lovívat 
+impf lyžovat 
+impf malovat 
+iter malovávat 
+impf malovat se
+iter malovávat se
+impf manipulovat 
+impf mapovat 
+impf mást 
+impf mást se
+impf mávat 
+pf mávnout 
+impf měnit 
+iter měnívat 
+impf měnit se
+iter měnívat se
+impf měřit 
+iter měřívat 
+impf měřit se
+iter měřívat se
+impf míchat 
+iter míchávat 
+impf míchat se
+iter míchávat se
+impf míjet 
+pf minout 
+impf míjet se
+pf minout se
+impf milovat 
+iter milovávat 
+impf milovat se
+iter milovávat se
+biasp minimalizovat 
+impf mínit 
+iter mínívat 
+impf mířit 
+iter mířívat 
+impf mísit 
+iter mísívat 
+impf mísit se
+iter mísívat se
+impf mít 
+iter mívat 
+impf mít se
+iter mívat se
+impf mizet 
+iter mizívat 
+impf mlátit 
+iter mlátívat 
+impf mlátit se
+iter mlátívat se
+impf mlčet 
+iter mlčívat 
+impf mlít 
+impf mlet 
+impf mlít se
+impf mlet se
+impf mluvit 
+iter mluvívat 
+impf množit 
+iter množívat 
+impf množit se
+iter množívat se
+impf moci 
+impf moct 
+biasp modernizovat 
+impf modlit se
+iter modlívat se
+impf monitorovat 
+impf montovat 
+impf montovat se
+biasp motivovat 
+impf mrkat 
+pf mrknout 
+iter mrkávat 
+impf mrzet 
+impf mrzet se
+impf mučit 
+iter mučívat 
+impf mučit se
+iter mučívat se
+impf muset 
+impf musit 
+impf mýlit 
+iter mýlívat 
+impf mýlit se
+iter mýlívat se
+impf mýlit si
+impf myslet 
+impf myslit 
+iter myslívat 
+impf myslet si
+impf myslit si
+iter myslívat si
+impf mýt 
+iter mývat 
+impf nabádat 
+pf nabídnout si
+impf nabízet 
+pf nabídnout 
+impf nabírat 
+pf nabrat 
+impf nabírat se
+pf nabrat se
+impf nabízet se
+impf nabývat 
+pf nabýt 
+pf načerpat 
+pf nadat1 
+impf nadávat 
+pf nadat2 
+impf nadechovat 
+impf nadychovat 
+pf nadechnout 
+pf nadýchnout 
+impf nadechovat se
+impf nadychovat se
+pf nadechnout se
+pf nadýchnout se
+impf nadělávat 
+pf nadělat 
+pf nadchnout 
+pf nadchnout se
+impf nahlašovat 
+pf nahlásit 
+impf nahlížet 
+pf nahlédnout 
+impf nahrazovat 
+pf nahradit 
+impf nahrávat 
+pf nahrát 
+impf nacházet 
+pf najít 
+impf nacházet se
+pf najít se
+impf najíždět 
+pf najet 
+impf najímat 
+pf najmout 
+pf najíst se
+impf nakazovat1 
+pf nakázat 
+impf nakažovat 
+impf nakazovat2 
+pf nakazit 
+impf nakažovat se
+impf nakazovat2 se
+pf nakazit se
+impf nakládat 
+pf naložit 
+impf naklánět 
+pf naklonit 
+impf naklánět se
+pf naklonit se
+impf naklánět si
+pf naklonit si
+impf nakupovat1 
+pf nakoupit 
+iter nakupovávat 
+pf nakrájet 
+pf nakreslit 
+impf nakupovat2 
+pf nakupit 
+impf nalaďovat 
+pf naladit 
+impf naléhat 
+pf nalehnout 
+iter nalehávat 
+iter naléhávat 
+impf nalepovat 
+pf nalepit 
+impf nalepovat se
+pf nalepit se
+impf nalévat 
+pf nalít 
+impf nalévat se
+pf nalít se
+impf nalézat1 se
+impf nalézat1 
+pf nalézt1 
+pf naleznout 
+impf nalézat2 
+pf nalézt2 
+impf náležet 
+impf namáčet 
+pf namočit 
+impf namáčet se
+pf namočit se
+impf namáhat 
+pf namoci 
+pf namoct 
+impf namáhat se
+pf namoci se
+pf namoct se
+pf namalovat 
+pf naměřit 
+pf namířit 
+impf namítat 
+pf namítnout 
+impf namlouvat 
+pf namluvit 
+impf namlouvat si
+pf namluvit si
+impf nanášet 
+pf nanést 
+pf nanosit 
+impf napadat1 
+impf napadávat1 
+pf napadnout 
+pf napadat2 
+iter napadávat2 
+impf napájet 
+impf napojovat1 
+pf napojit1 
+impf napájet se
+impf napojovat1 se
+pf napojit1 se
+pf napít se
+pf naplánovat 
+impf naplňovat 
+pf naplnit 
+impf naplňovat se
+pf naplnit se
+impf napodobovat 
+pf napodobit 
+impf napojovat2 
+pf napojit2 
+impf napojovat2 se
+pf napojit2 se
+impf napomáhat 
+pf napomoci 
+pf napomoct 
+impf napovídat2 
+pf napovědět 
+pf napovídat1 
+impf napravovat 
+pf napravit 
+impf napravovat se
+pf napravit se
+pf napsat 
+pf narazit si
+impf narážet 
+pf narazit 
+impf narážet se
+pf narazit se
+pf narodit se
+impf narovnávat 
+pf narovnat 
+impf narovnávat se
+pf narovnat se
+impf narůstat 
+pf narůst 
+impf narušovat 
+pf narušit 
+impf narušovat se
+pf narušit se
+impf nařizovat1 
+pf nařídit1 
+impf nařizovat2 
+pf nařídit2 
+impf naříkat1 
+iter naříkávat1 
+impf naříkat2 
+pf nařknout 
+iter naříkávat2 
+impf nasazovat 
+pf nasadit 
+pf nasbírat 
+pf nasbírat se
+impf nasedat 
+pf nasednout 
+iter nasedávat 
+impf naskakovat 
+pf naskočit 
+impf naskytat se
+impf naskýtat se
+impf naskytovat se
+pf naskytnout se
+impf následovat 
+impf naslouchat 
+iter naslouchávat 
+pf nastartovat 
+impf nastávat 
+pf nastat 
+impf nastavovat 
+pf nastavit 
+pf nastěhovat 
+pf nastěhovat se
+impf nastolovat 
+pf nastolit 
+impf nastupovat 
+pf nastoupit 
+impf nastřelovat 
+pf nastřelit 
+pf nastřílet 
+pf nastudovat 
+impf nasvědčovat 
+pf nasvědčit 
+pf naštvat 
+pf naštvat se
+impf natáčet 
+pf natočit 
+impf natahovat 
+pf natáhnout 
+impf natahovat se
+pf natáhnout se
+impf natírat 
+pf natřít 
+impf natáčet se
+pf natočit se
+pf naučit 
+pf naučit se
+impf navazovat 
+pf navázat 
+impf navracet 
+pf navrátit 
+iter navracívat 
+impf navracet se
+pf navrátit se
+iter navracívat se
+impf navrhovat 
+pf navrhnout 
+impf navštěvovat se
+pf navštívit se
+impf navštěvovat 
+pf navštívit 
+impf naznačovat 
+pf naznačit 
+impf nazývat 
+pf nazvat 
+impf nechávat 
+pf nechat 
+impf nechávat se
+pf nechat se
+impf nechávat si
+pf nechat si
+impf nenávidět 
+impf nést 
+impf nést se
+impf ničit 
+biasp nominovat 
+impf nosit 
+iter nosívat 
+impf nosit se
+impf nudit 
+iter nudívat 
+impf nudit se
+iter nudívat se
+impf nutit 
+iter nutívat 
+impf obávat se
+impf obdařovat 
+pf obdařit 
+impf obdivovat 
+impf obdivovat se
+pf obdržet 
+pf obejít se
+impf obcházet 
+pf obejít 
+impf objímat 
+pf obejmout 
+impf objímat se
+pf obejmout se
+biasp obětovat 
+iter obětovávat 
+impf obhajovat 
+pf obhájit 
+impf obchodovat 
+impf objasňovat 
+pf objasnit 
+impf objednávat 
+pf objednat 
+impf objíždět 
+pf objet 
+pf obejet 
+impf objevovat 
+pf objevit 
+impf objevovat se
+pf objevit se
+impf obkličovat 
+pf obklíčit 
+impf obklopovat 
+pf obklopit 
+impf oblékat 
+pf obléci 
+pf obléct 
+pf obléknout 
+impf oblékat se
+pf obléci se
+pf obléct se
+pf obléknout se
+impf oblibovat si
+pf oblíbit si
+impf obnášet 
+iter obnášívat 
+impf obnovovat 
+pf obnovit 
+impf obnovovat se
+pf obnovit se
+impf obohacovat 
+pf obohatit 
+impf obohacovat se
+pf obohatit se
+impf obracet 
+pf obrátit 
+impf obracet se
+pf obrátit se
+iter obracívat se
+impf obsazovat 
+pf obsadit 
+impf obsahovat 
+pf obsáhnout 
+impf obsluhovat 
+pf obsloužit 
+impf obstarávat 
+pf obstarat 
+pf obstát 
+impf obtěžovat 
+impf obtěžovat se
+impf obviňovat 
+pf obvinit 
+impf obývat 
+impf obžalovávat 
+pf obžalovat 
+impf oceňovat 
+pf ocenit 
+impf ocitat se
+impf ocítat se
+pf ocitnout se
+pf octnout se
+impf očekávat 
+iter očekávávat 
+impf očišťovat 
+impf očisťovat 
+pf očistit 
+impf očišťovat se
+impf očisťovat se
+pf očistit se
+impf odbývat 
+pf odbýt 
+impf odbývat se
+pf odbýt se
+pf odcestovat 
+impf odcizovat 
+pf odcizit 
+impf odcizovat se
+pf odcizit se
+impf oddalovat 
+pf oddálit 
+impf oddalovat se
+pf oddálit se
+impf oddávat 
+pf oddat 
+impf oddávat se
+pf oddat se
+impf oddechovat 
+impf oddychovat 
+pf oddechnout 
+pf oddychnout 
+pf oddýchnout 
+impf oddělovat 
+pf oddělit 
+impf oddělovat se
+pf oddělit se
+impf odebírat 
+pf odebrat 
+impf odebírat se
+pf odebrat se
+impf odečítat 
+impf odčítat 
+pf odečíst 
+pf odčíst 
+impf odehrávat 
+pf odehrát 
+impf odehrávat se
+pf odehrát se
+impf odcházet 
+pf odejít 
+iter odcházívat 
+impf odnímat 
+pf odejmout 
+impf odepisovat 
+impf odpisovat 
+pf odepsat 
+impf odpírat 
+impf odepírat 
+pf odepřít 
+impf odesílat 
+pf odeslat 
+impf odevzdávat 
+pf odevzdat 
+impf odevzdávat se
+pf odevzdat se
+impf odhadovat 
+pf odhadnout 
+impf odhalovat 
+pf odhalit 
+impf odhazovat 
+pf odhodit 
+pf odházet 
+pf odhlasovat 
+impf odhodlávat se
+pf odhodlat se
+impf odjíždět 
+pf odjet 
+pf odejet 
+iter odjíždívat 
+impf odkazovat 
+pf odkázat 
+impf odkazovat se
+pf odkázat se
+impf odkládat 
+pf odložit 
+impf odkupovat 
+pf odkoupit 
+impf odkrývat 
+pf odkrýt 
+impf odkrývat se
+pf odkrýt se
+impf odlétat1 
+impf odletovat 
+pf odletět 
+pf odlétnout 
+pf odlétat2 
+iter odlétávat 
+impf odlišovat 
+pf odlišit 
+impf odlišovat se
+pf odlišit se
+impf odměňovat 
+pf odměnit 
+impf odměňovat se
+pf odměnit se
+impf odmítat 
+pf odmítnout 
+impf odmlčovat se
+pf odmlčet se
+impf odnášet 
+pf odnést 
+impf odnášet si
+pf odnést si
+impf odolávat 
+pf odolat 
+impf odpadat1 
+impf odpadávat 
+pf odpadnout 
+pf odpadat2 
+pf odpočinout si
+impf odpočívat 
+pf odpočinout 
+iter odpočívávat 
+impf odporovat 
+impf odpouštět1 
+pf odpustit1 
+impf odpouštět1 si
+pf odpustit1 si
+impf odpouštět2 
+pf odpustit2 
+impf odpoutávat 
+pf odpoutat 
+impf odpoutávat se
+pf odpoutat se
+impf odpovídat 
+pf odpovědět 
+impf odpovídat se
+impf odrazovat 
+pf odradit 
+impf odrážet 
+pf odrazit 
+impf odrážet se
+pf odrazit se
+impf odročovat 
+pf odročit 
+impf odřezávat 
+pf odříznout 
+pf odřezat 
+impf odskakovat 
+pf odskočit 
+impf odskakovat si
+pf odskočit si
+impf odsuzovat 
+pf odsoudit 
+pf odsouhlasit 
+impf odsunovat 
+impf odsouvat 
+pf odsunout 
+pf odstartovat 
+impf odstavovat 
+pf odstavit 
+pf odstěhovat 
+pf odstěhovat se
+impf odstupovat 
+pf odstoupit 
+impf odstraňovat 
+pf odstranit 
+impf odstrkovat 
+impf odstrkávat 
+impf odstrkat2 
+pf odstrčit 
+pf odstrkat1 
+impf odtahovat 
+pf odtáhnout 
+impf odtahovat se
+pf odtáhnout se
+impf odtrhávat 
+impf odtrhovat 
+pf odtrhnout 
+impf odtrhávat se
+impf odtrhovat se
+pf odtrhnout se
+impf odůvodňovat 
+pf odůvodnit 
+impf odvádět 
+pf odvést 
+impf odvážet 
+pf odvézt 
+impf odvažovat1 
+pf odvážit1 
+impf odvažovat2 se
+pf odvážit2 se
+pf odvětit 
+impf odvinovat 
+impf odvíjet 
+pf odvinout 
+impf odvíjet se
+pf odvinout se
+impf odvozovat 
+pf odvodit 
+impf odvolávat 
+pf odvolat 
+impf odvolávat se
+pf odvolat se
+impf odvracet 
+pf odvrátit 
+impf odvracet se
+pf odvrátit se
+pf odvysílat 
+impf ohlašovat 
+pf ohlásit 
+impf ohlašovat se
+pf ohlásit se
+impf ohlížet se
+pf ohlédnout se
+impf ohodnocovat 
+pf ohodnotit 
+impf ohrazovat1 se
+pf ohradit1 se
+impf ohrazovat2 
+pf ohradit2 
+impf ohromovat 
+pf ohromit 
+impf ohrožovat 
+pf ohrozit 
+impf ohřívat se
+impf ohřávat se
+pf ohřát se
+impf ohřívat si
+impf ohřávat si
+pf ohřát si
+impf ohřívat 
+impf ohřávat 
+pf ohřát 
+impf ochraňovat 
+pf ochránit 
+impf ochromovat 
+pf ochromit 
+impf ochutnávat 
+pf ochutnat 
+impf okouzlovat 
+pf okouzlit 
+impf okrádat 
+pf okrást 
+impf oloupávat 
+impf olupovat2 
+pf oloupnout 
+pf oloupat 
+impf oloupávat se
+impf olupovat2 se
+pf oloupnout se
+pf oloupat se
+impf olupovat1 
+pf oloupit 
+impf omezovat 
+pf omezit 
+impf omezovat se
+pf omezit se
+impf omlouvat 
+pf omluvit 
+impf omývat 
+pf omýt 
+pf onemocnět 
+impf opakovat 
+iter opakovávat 
+impf opakovat se
+iter opakovávat se
+impf opatřovat 
+pf opatřit 
+impf operovat 
+iter operovávat 
+impf opíjet 
+pf opít 
+impf opíjet se
+pf opít se
+impf opírat1 
+pf opřít 
+iter opírávat 
+impf opírat1 se
+pf opřít se
+iter opírávat se
+impf opírat2 
+pf oprat 
+impf opírat2 se
+pf oprat se
+impf opisovat 
+pf opsat 
+impf oplývat 
+impf opomíjet 
+pf opomenout 
+pf opominout 
+impf opouštět 
+pf opustit 
+impf opravovat 
+pf opravit 
+impf opravňovat 
+pf oprávnit 
+biasp organizovat 
+biasp organizovat se
+biasp orientovat 
+biasp orientovat se
+impf osazovat 
+pf osadit 
+impf oslabovat 
+pf oslabit 
+impf oslavovat 
+pf oslavit 
+impf oslovovat 
+pf oslovit 
+pf osolit 
+impf osušovat 
+impf osoušet 
+pf osušit 
+impf ostřelovat 
+impf osvědčovat 
+pf osvědčit 
+impf osvědčovat se
+pf osvědčit se
+impf osvětlovat 
+pf osvětlit 
+impf osvobozovat 
+pf osvobodit 
+impf osvobozovat se
+pf osvobodit se
+impf osvojovat 
+pf osvojit 
+impf ošetřovat 
+pf ošetřit 
+impf otáčet 
+pf otočit 
+impf otáčet se
+pf otočit se
+pf otázat se
+impf otvírat 
+impf otevírat 
+pf otevřít 
+impf otvírat se
+impf otevírat se
+pf otevřít se
+impf otírat 
+pf otřít 
+iter otírávat 
+impf otírat se
+pf otřít se
+iter otírávat se
+impf otiskovat 
+pf otisknout 
+impf otiskovat se
+pf otisknout se
+impf otravovat 
+pf otrávit 
+impf otravovat se
+pf otrávit se
+impf otřásat 
+pf otřást 
+impf otřásat se
+pf otřást se
+impf ověřovat 
+pf ověřit 
+impf ovládat 
+pf ovládnout 
+impf ovládat se
+pf ovládnout se
+impf ovlivňovat 
+pf ovlivnit 
+impf ozdobovat 
+pf ozdobit 
+impf označovat 
+pf označit 
+impf oznamovat 
+pf oznámit 
+impf ozývat se
+pf ozvat se
+pf oženit 
+pf oženit se
+impf ožívat 
+pf ožít 
+impf oživovat 
+impf obživovat 
+pf oživit 
+pf obživit 
+impf padat 
+pf padnout 
+impf páchat 
+impf páchnout 
+impf paličkovat 
+impf pálit 
+iter pálívat 
+impf pálit se
+iter pálívat se
+impf pamatovat 
+impf pamatovat se
+impf panovat 
+impf pátrat 
+impf patřit1 
+iter patřívat1 
+impf patřit1 se
+iter patřívat1 se
+impf patřit2 
+iter patřívat2 
+impf péci 
+impf péct 
+iter pékat 
+iter pekávat 
+impf péci se
+impf péct se
+impf pečovat 
+impf pěstovat 
+iter pěstovávat 
+impf pět 
+impf píchat 
+pf píchnout 
+impf píchat se
+pf píchnout se
+impf pískat 
+pf písknout 
+iter pískávat 
+impf pít 
+iter pívat 
+impf plakat 
+iter plakávat 
+impf plánovat 
+impf platit 
+iter platívat 
+impf plavat 
+impf plovat 
+impf plést 
+impf plést se
+impf plnit 
+iter plnívat 
+impf plnit se
+iter plnívat se
+impf plout 
+impf plynout 
+pf pobavit 
+pf pobavit se
+impf pobíhat 
+iter pobíhávat 
+impf pobírat 
+pf pobrat 
+impf pobuřovat 
+pf pobouřit 
+impf pobuřovat se
+pf pobouřit se
+impf pobývat 
+pf pobýt 
+impf pociťovat 
+pf pocítit 
+impf počínat se
+impf počínat si
+impf počínat 
+pf počít 
+impf počítat 
+iter počítávat 
+pf počkat 
+pf podařit se
+impf podávat 
+pf podat 
+impf podávat si
+pf podat si
+impf podceňovat 
+pf podcenit 
+pf poděkovat 
+pf poděkovat se
+impf podělovat se
+pf podělit se
+impf podělovat 
+pf podělit 
+impf podpisovat 
+impf podepisovat 
+pf podepsat 
+impf podpisovat se
+impf podepisovat se
+pf podepsat se
+impf podezírat 
+impf podezřívat 
+impf podílet se
+pf podívat se
+impf podivovat se
+pf podivit se
+impf podkládat 
+pf podložit 
+impf podléhat 
+pf podlehnout 
+impf podmiňovat 
+pf podmínit 
+impf podněcovat 
+pf podnítit 
+impf podnikat 
+pf podniknout 
+impf podobat se
+impf podotýkat 
+pf podotknout 
+impf podporovat 
+pf podpořit 
+impf podražovat 
+pf podražit 
+impf podrobovat 
+pf podrobit 
+impf podrobovat se
+pf podrobit se
+pf podržet 
+pf podržet se
+pf podržet si
+impf podřizovat 
+pf podřídit 
+impf podřizovat se
+pf podřídit se
+impf podstupovat 
+pf podstoupit 
+impf podtrhávat 
+impf podtrhovat 
+pf podtrhnout 
+pf podtrhat 
+pf pohádat se
+impf pohánět 
+pf pohnat 
+pf pohladit 
+impf pohlcovat 
+pf pohltit 
+impf pohlížet 
+pf pohlédnout 
+pf pohledět 
+impf pohybovat 
+pf pohnout 
+impf pohybovat se
+pf pohnout se
+impf pohrávat si
+pf pohrát si
+impf pohrávat 
+impf pohrdat 
+pf pohrdnout 
+pf pohrozit 
+impf pohřbívat 
+pf pohřbít 
+impf pohřbívat se
+pf pohřbít se
+impf pocházet 
+iter pocházívat 
+pf pochlubit se
+impf pochodovat 
+iter pochodovávat 
+pf pochopit 
+impf pochovávat 
+pf pochovat 
+impf pochvalovat 
+pf pochválit 
+iter pochvalovávat 
+impf pochybovat 
+impf pojednávat 
+pf pojednat 
+impf pojímat 
+pf pojmout 
+impf pojišťovat 
+pf pojistit 
+impf pojit 
+iter pojívat 
+impf pojit se
+iter pojívat se
+impf pojmenovávat 
+pf pojmenovat 
+pf pokazit 
+pf pokazit se
+impf pokládat 
+pf položit 
+impf pokládat se
+pf položit se
+impf poklesávat 
+impf poklesat 
+pf poklesnout 
+impf pokoušet 
+impf pokoušet se
+pf pokusit se
+impf pokračovat 
+pf pokročit 
+pf pokrčit 
+pf pokrčit se
+impf pokrývat 
+pf pokrýt 
+pf pokřtít 
+pf polekat 
+pf polekat se
+impf polemizovat 
+pf polepšit si
+impf polepšovat 
+pf polepšit 
+impf polepšovat se
+pf polepšit se
+impf polévat 
+pf polít 
+impf polévat se
+pf polít se
+pf políbit 
+impf polykat 
+pf polknout 
+iter polykávat 
+impf pomáhat 
+pf pomoci 
+pf pomoct 
+impf pomíjet 
+pf pominout 
+pf pominout se
+pf pomstít 
+pf pomstít se
+pf pomyslet si
+pf pomyslit si
+impf pomýšlet 
+pf pomyslet 
+pf pomyslit 
+impf ponechávat 
+pf ponechat 
+impf ponořovat se
+pf ponořit se
+impf ponořovat 
+pf ponořit 
+pf popadnout 
+pf popadnout se
+impf popíjet 
+pf popít 
+impf popírat 
+pf popřít 
+impf popisovat 
+pf popsat 
+pf popovídat 
+pf poprat se
+pf poprosit 
+impf popřávat 
+pf popřát 
+pf poradit 
+pf poradit se
+pf poradit si
+pf poranit 
+pf poranit se
+impf porážet 
+pf porazit 
+impf poroučet se
+iter poroučívat se
+impf poroučet 
+pf poručit 
+iter poroučívat 
+pf porovnat se
+impf porovnávat 
+pf porovnat 
+pf porozumět 
+impf porušovat 
+pf porušit 
+impf pořádat 
+iter pořádávat 
+impf pořizovat 
+pf pořídit 
+impf posazovat 
+pf posadit 
+impf posazovat se
+pf posadit se
+impf posílat 
+pf poslat 
+iter posílávat 
+impf posilovat 
+pf posílit 
+impf posilovat se
+pf posílit se
+impf poskakovat 
+pf poskočit 
+impf poskytovat 
+pf poskytnout 
+impf poslouchat 
+pf poslechnout 
+iter poslouchávat 
+pf posloužit si
+impf posluhovat 
+pf posloužit 
+impf posuzovat 
+pf posoudit 
+impf posunovat 
+impf posouvat 
+pf posunout 
+impf posunovat se
+impf posouvat se
+pf posunout se
+impf pospíchat 
+impf postačovat 
+pf postačit 
+pf postarat se
+pf postavit 
+pf postavit se
+pf postavit si
+impf postýskávat si
+pf postesknout si
+pf postýsknout si
+pf postýskat si
+pf postěžovat si
+impf postihovat 
+pf postihnout 
+impf postupovat 
+pf postoupit 
+impf postrádat 
+impf postřehovat 
+pf postřehnout 
+impf poškozovat 
+pf poškodit 
+impf potápět 
+pf potopit 
+impf potápět se
+pf potopit se
+pf potěšit 
+pf potěšit se
+impf potírat 
+pf potřít 
+iter potírávat 
+impf potkávat 
+pf potkat 
+impf potkávat se
+pf potkat se
+impf potlačovat 
+pf potlačit 
+pf potrestat 
+pf potrvat 
+impf potřásat 
+pf potřást 
+iter potřásávat 
+impf potřebovat 
+impf potvrzovat 
+pf potvrdit 
+impf poučovat 
+pf poučit 
+impf poučovat se
+pf poučit se
+impf poukazovat 
+pf poukázat 
+impf pouštět 
+pf pustit 
+iter pouštívat 
+impf pouštět se
+pf pustit se
+iter pouštívat se
+impf pouštět si
+pf pustit si
+iter pouštívat si
+impf poutat 
+iter poutávat 
+impf poutat se
+iter poutávat se
+impf používat 
+pf použít 
+pf povařit 
+impf považovat 
+impf považovat si
+impf povídat 
+pf povědět 
+iter povídávat 
+impf pověřovat 
+pf pověřit 
+pf pověsit 
+pf pověsit se
+pf povést se
+impf povídat si
+impf povolávat 
+pf povolat 
+impf povolovat 
+pf povolit 
+impf povstávat 
+pf povstat 
+pf povšimnout si
+impf povyšovat 
+pf povýšit 
+impf povyšovat se
+impf povzbuzovat 
+pf povzbudit 
+impf povzdechovat 
+impf povzdychovat 
+impf povzdychávat 
+pf povzdechnout 
+pf povzdychnout 
+pf povzdychat 
+impf pozastavovat 
+pf pozastavit 
+impf pozastavovat se
+pf pozastavit se
+pf pozdravit1 se
+impf pozdravovat1 
+pf pozdravit1 
+impf pozdravovat2 se
+pf pozdravit2 se
+impf pozdvihat 
+impf pozdvíhat 
+impf pozdvihávat 
+impf pozdvihovat 
+pf pozdvihnout 
+impf pozdvihat se
+impf pozdvíhat se
+impf pozdvihávat se
+impf pozdvihovat se
+pf pozdvihnout se
+impf pozměňovat 
+pf pozměnit 
+impf pozměňovat se
+pf pozměnit se
+impf poznamenávat 
+pf poznamenat 
+impf poznávat 
+pf poznat 
+impf poznávat se
+pf poznat se
+impf pozorovat 
+iter pozorovávat 
+pf pozvat 
+impf pozvedat 
+impf pozvedávat 
+pf pozvednout 
+impf pozvedat se
+impf pozvedávat se
+pf pozvednout se
+impf požadovat 
+pf požádat 
+impf požínat 
+pf požít2 
+pf požnout 
+impf požívat 
+pf požít1 
+impf pracovat 
+iter pracovávat 
+impf praktikovat 
+impf pramenit 
+impf praskat 
+pf prasknout 
+iter praskávat 
+impf práskat 
+pf prásknout 
+iter práskávat 
+pf praštit 
+pf praštit se
+impf prát 
+iter právat 
+impf prát se
+iter právat se
+pf pravit 
+impf preferovat 
+biasp prezentovat 
+impf prchat 
+pf prchnout 
+iter prchávat 
+biasp privatizovat 
+pf proběhnout se
+impf probíhat 
+pf proběhnout 
+pf proběhat 
+impf probírat 
+pf probrat 
+impf probírat se
+pf probrat se
+impf probojovávat 
+pf probojovat 
+impf probojovávat se
+pf probojovat se
+impf probouzet 
+pf probudit 
+iter probouzívat 
+impf probouzet se
+pf probudit se
+iter probouzívat se
+impf prodávat 
+pf prodat 
+impf prodělávat 
+pf prodělat 
+impf prodlužovat 
+pf prodloužit 
+impf prodlužovat se
+pf prodloužit se
+impf produkovat 
+impf prohánět 
+pf prohnat 
+impf prohánět se
+pf prohnat se
+impf prohazovat 
+pf prohodit 
+pf proházet 
+impf prohlašovat 
+pf prohlásit 
+impf prohlížet 
+pf prohlédnout 
+pf prohlídnout 
+impf prohlížet si
+pf prohlédnout si
+pf prohlídnout si
+iter prohlížívat si
+impf prohlubovat 
+pf prohloubit 
+impf prohlubovat se
+pf prohloubit se
+impf prohrávat 
+pf prohrát 
+impf procházet 
+pf projít 
+iter procházívat 
+impf procházet se
+pf projít se
+iter procházívat se
+impf projednávat 
+pf projednat 
+impf projíždět 
+pf projet 
+impf projíždět se
+pf projet se
+impf projevovat 
+pf projevit 
+impf projevovat se
+pf projevit se
+pf projezdit 
+impf prokazovat 
+pf prokázat 
+impf prokazovat se
+pf prokázat se
+impf prolamovat 
+pf prolomit 
+pf prolámat 
+impf prolamovat se
+pf prolomit se
+pf prolámat se
+impf prolínat 
+pf prolnout 
+impf prolínat se
+pf prolnout se
+impf promarňovat 
+pf promarnit 
+impf proměňovat 
+pf proměnit 
+impf proměňovat se
+pf proměnit se
+impf promíchávat 
+pf promíchat 
+impf promíchávat se
+pf promíchat se
+impf promíjet 
+pf prominout 
+impf promítat 
+pf promítnout 
+impf promítat se
+pf promítnout se
+impf promlouvat 
+pf promluvit 
+impf pronajímat 
+pf pronajmout 
+impf pronásledovat 
+impf pronášet 
+pf pronést 
+impf pronášet se
+pf pronést se
+impf pronikat 
+pf proniknout 
+impf propadávat 
+impf propadat1 
+pf propadnout 
+pf propadat2 
+impf propadávat se
+impf propadat1 se
+pf propadnout se
+impf propagovat 
+impf propojovat 
+pf propojit 
+impf propouštět 
+pf propustit 
+impf propracovávat 
+pf propracovat 
+impf propracovávat se
+pf propracovat se
+impf propukávat 
+impf propukovat 
+impf propukat 
+pf propuknout 
+impf prorážet 
+pf prorazit 
+impf prosazovat 
+pf prosadit 
+impf prosévat 
+pf prosít 
+impf prosit 
+iter prosívat 
+impf prosit se
+impf proslavovat 
+pf proslavit 
+impf proslavovat se
+pf proslavit se
+pf proslout 
+impf prosperovat 
+impf prospívat 
+pf prospět 
+pf prostudovat 
+impf protahovat 
+pf protáhnout 
+impf protahovat se
+pf protáhnout se
+impf protékat 
+pf protéci 
+pf protéct 
+impf protestovat 
+impf protínat 
+pf protnout 
+impf protínat se
+pf protnout se
+impf proudit1 
+iter proudívat 
+pf proudit2 
+impf provádět 
+pf provést 
+impf provázet 
+iter provázívat 
+pf provdat 
+pf provdat se
+impf prověřovat 
+pf prověřit 
+impf provokovat 
+impf provozovat 
+impf prozkoumávat 
+pf prozkoumat 
+impf prozrazovat 
+pf prozradit 
+impf prozrazovat se
+pf prozradit se
+impf prožívat 
+pf prožít 
+impf pršet 
+iter pršívat 
+impf přát 
+iter přávat 
+impf přát si
+iter přávat si
+impf přebírat se
+impf přebírat 
+pf přebrat 
+pf převzít 
+iter přebírávat 
+impf přeceňovat 
+pf přecenit 
+pf přečíst 
+pf přečíst si
+impf předávat 
+pf předat 
+impf předávat se
+pf předat se
+impf předbíhat 
+pf předběhnout 
+impf předbíhat se
+pf předběhnout se
+biasp předčit 
+impf předcházet 
+pf předejít 
+impf předepisovat 
+impf předpisovat 
+pf předepsat 
+pf předestřít 
+impf předcházet se
+impf předcházet si
+impf předkládat 
+pf předložit 
+impf přednášet 
+pf přednést 
+iter přednášívat 
+impf předpokládat 
+impf předpovídat 
+pf předpovědět 
+impf předsedat 
+iter předsedávat 
+impf představovat 
+pf představit 
+impf představovat si
+pf představit si
+impf předstihovat 
+pf předstihnout 
+impf předstírat 
+impf předurčovat 
+pf předurčit 
+impf předvádět 
+pf předvést 
+impf předvádět se
+pf předvést se
+impf předvídat 
+impf přehánět 
+pf přehnat 
+impf přehánět se
+pf přehnat se
+impf přehazovat 
+pf přeházet 
+pf přehodit 
+impf přehazovat se
+impf přehazovat si
+pf přehlédnout se
+impf přehlížet 
+pf přehlédnout 
+impf přehodnocovat 
+pf přehodnotit 
+impf přehrávat 
+pf přehrát 
+impf přecházet 
+pf přejít 
+pf přechodit 
+impf přejíždět 
+pf přejet 
+impf přejmenovávat 
+pf přejmenovat 
+impf překážet 
+iter překážívat 
+impf překládat 
+pf přeložit 
+impf překonávat 
+pf překonat 
+impf překonávat se
+impf překračovat 
+pf překročit 
+impf překrývat 
+pf překrýt 
+impf překrývat se
+pf překrýt se
+impf překvapovat 
+pf překvapit 
+impf přelévat 
+pf přelít 
+impf přelévat se
+pf přelít se
+impf přemáhat 
+pf přemoci 
+pf přemoct 
+impf přemáhat se
+pf přemoci se
+pf přemoct se
+impf přeměňovat 
+pf přeměnit 
+impf přeměňovat se
+pf přeměnit se
+impf přemisťovat 
+impf přemísťovat 
+pf přemístit 
+impf přemisťovat se
+impf přemísťovat se
+pf přemístit se
+impf přemítat 
+iter přemítávat 
+impf přemlouvat 
+pf přemluvit 
+impf přemýšlet 
+iter přemýšlívat 
+impf přenášet 
+pf přenést 
+impf přenášet se
+pf přenést se
+impf přenechávat 
+pf přenechat 
+impf přepadávat 
+impf přepadat 
+pf přepadnout 
+impf přepravovat 
+pf přepravit 
+impf přepravovat se
+pf přepravit se
+impf přerůstat 
+pf přerůst 
+impf přerušovat 
+pf přerušit 
+impf přerušovat se
+pf přerušit se
+impf přesahovat 
+pf přesáhnout 
+impf přeskakovat 
+pf přeskočit 
+pf přeskákat 
+impf přesunovat 
+impf přesouvat 
+pf přesunout 
+impf přesunovat se
+impf přesouvat se
+pf přesunout se
+impf přestávat 
+pf přestat 
+impf přestavovat 
+pf přestavět 
+pf přestavit 
+pf přestěhovat 
+pf přestěhovat se
+impf přestupovat 
+pf přestoupit 
+impf přesvědčovat 
+pf přesvědčit 
+impf přesvědčovat se
+pf přesvědčit se
+impf přetrvávat 
+pf přetrvat 
+impf převádět 
+pf převést 
+impf převážet 
+pf převézt 
+impf převažovat 
+pf převážit 
+impf převažovat se
+pf převážit se
+impf převládat 
+pf převládnout 
+impf převracet 
+pf převrátit 
+impf převracet se
+pf převrátit se
+impf převyšovat 
+pf převýšit 
+impf přežívat 
+pf přežít 
+impf přežívat se
+pf přežít se
+impf přibíhat 
+pf přiběhnout 
+impf přibírat 
+pf přibrat 
+impf přibližovat 
+pf přiblížit 
+impf přibližovat se
+pf přiblížit se
+impf přibývat 
+pf přibýt 
+pf přicestovat 
+impf přičítat 
+pf přičíst 
+iter přičítávat 
+impf přidávat 
+pf přidat 
+impf přidávat se
+pf přidat se
+impf přidělovat 
+pf přidělit 
+impf přidržovat 
+pf přidržet 
+impf přidržovat se
+pf přidržet se
+impf přihazovat 
+pf přihodit1 
+pf přiházet1 
+impf přiházet2 se
+pf přihodit2 se
+impf přihlašovat 
+pf přihlásit 
+impf přihlašovat se
+pf přihlásit se
+impf přihlížet 
+pf přihlédnout 
+impf přihrávat 
+pf přihrát 
+impf přicházet 
+pf přijít 
+iter přicházívat 
+pf přichystat 
+pf přichystat se
+impf přijíždět 
+pf přijet 
+iter přijíždívat 
+impf přijímat 
+pf přijmout 
+impf přicházet si
+pf přijít si
+iter přicházívat si
+impf přikazovat 
+pf přikázat 
+impf přikládat 
+pf přiložit 
+impf přiklánět 
+pf přiklonit 
+impf přiklánět se
+pf přiklonit se
+impf přikrývat 
+pf přikrýt 
+impf přikyvovat 
+pf přikývnout 
+pf přilákat 
+impf přilepovat 
+pf přilepit 
+impf přilepovat se
+pf přilepit se
+impf přilétat 
+impf přiletovat1 
+pf přiletět 
+pf přilétnout 
+iter přilétávat 
+pf přiletovat2 
+impf přilévat 
+pf přilít 
+pf přimět 
+impf přinášet 
+pf přinést 
+iter přinášívat 
+pf přinutit 
+impf připadat1 
+pf připadnout1 
+iter připadávat2 
+impf připadávat1 
+pf připadnout2 
+pf připadat2 
+impf připevňovat 
+pf připevnit 
+impf připisovat 
+pf připsat 
+impf připočítávat 
+pf připočítat 
+pf připočíst 
+impf připojovat 
+pf připojit 
+impf připojovat se
+pf připojit se
+impf připomínat 
+pf připomenout 
+impf připouštět 
+pf připustit 
+impf připouštět si
+pf připustit si
+impf připoutávat 
+pf připoutat 
+impf připravovat 
+pf připravit 
+impf připravovat se
+pf připravit se
+impf přirovnávat 
+pf přirovnat 
+impf přiřazovat 
+impf přiřaďovat 
+pf přiřadit 
+impf přiřazovat se
+impf přiřaďovat se
+pf přiřadit se
+impf přísahat 
+iter přísahávat 
+pf přislíbit 
+impf příslušet 
+impf přisuzovat 
+pf přisoudit 
+impf přispívat 
+pf přispět 
+impf příst 
+impf přistávat 
+pf přistát 
+pf přistat 
+impf přistihovat 
+pf přistihnout 
+impf přistupovat 
+pf přistoupit 
+impf přít se
+impf přitahovat 
+pf přitáhnout 
+pf přitisknout 
+pf přitisknout se
+impf přivádět 
+pf přivést 
+impf přivazovat 
+pf přivázat 
+impf přivážet 
+pf přivézt 
+pf přivítat 
+pf přivítat se
+pf přivodit 
+impf přivolávat 
+pf přivolat 
+impf přiznávat 
+pf přiznat 
+impf přiznávat se
+pf přiznat se
+impf přizpůsobovat 
+pf přizpůsobit 
+impf přizpůsobovat se
+pf přizpůsobit se
+pf přizvat 
+impf psát 
+iter psávat 
+impf ptát se
+iter ptávat se
+biasp publikovat 
+impf půjčovat 
+pf půjčit 
+pf půjčit si
+impf působit 
+iter působívat 
+impf putovat 
+impf pyšnit se
+iter pyšnívat se
+impf ráčit 
+iter ráčívat 
+impf radit 
+impf radit se
+impf radovat se
+pf ranit 
+biasp ratifikovat 
+impf razit 
+iter razívat 
+biasp reagovat 
+biasp realizovat 
+biasp realizovat se
+biasp redukovat 
+biasp referovat 
+impf reflektovat 
+biasp registrovat 
+impf regulovat 
+biasp rekonstruovat 
+pf remizovat 
+pf remízovat 
+impf reprezentovat 
+impf respektovat 
+biasp rezignovat 
+impf režírovat 
+biasp riskovat 
+impf rodit 
+iter rodívat 
+impf rodit se
+iter rodívat se
+impf rovnat 
+impf rovnat se
+impf rovnat si
+impf rozbíhat 
+pf rozběhnout 
+pf rozeběhnout 
+impf rozbíhat se
+pf rozběhnout se
+pf rozeběhnout se
+impf rozbíjet 
+pf rozbít 
+impf rozbíjet se
+pf rozbít se
+impf rozčilovat 
+pf rozčílit 
+pf rozčilit 
+impf rozčilovat se
+pf rozčílit se
+pf rozčilit se
+pf rozdat si
+impf rozdávat 
+pf rozdat 
+impf rozdělovat se
+pf rozdělit se
+impf rozdělovat 
+impf rozdílet 
+pf rozdělit 
+impf rozdrcovat 
+pf rozdrtit 
+impf rozdrcovat se
+pf rozdrtit se
+impf rozebírat 
+impf rozbírat 
+pf rozebrat 
+impf rozehrávat 
+pf rozehrát 
+impf rozehrávat se
+pf rozehrát se
+pf rozejít 
+impf rozcházet se
+pf rozejít se
+impf rozesílat 
+pf rozeslat 
+impf rozesmávat 
+impf rozesmívat 
+pf rozesmát 
+impf rozesmávat se
+impf rozesmívat se
+pf rozesmát se
+impf rozevírat 
+impf rozvírat 
+pf rozevřít 
+impf rozevírat se
+impf rozvírat se
+pf rozevřít se
+impf rozeznávat 
+pf rozeznat 
+impf rozhlížet se
+pf rozhlédnout se
+impf rozhodovat 
+pf rozhodnout 
+impf rozhodovat se
+pf rozhodnout se
+impf rozcházet 
+pf rozchodit 
+impf rozjíždět 
+pf rozjet 
+impf rozjíždět se
+pf rozjet se
+impf rozkládat 
+pf rozložit 
+impf rozkládat se
+pf rozložit se
+impf rozlišovat 
+pf rozlišit 
+pf rozloučit se
+impf rozlučovat 
+pf rozloučit 
+impf rozmísťovat 
+impf rozmisťovat 
+pf rozmístit 
+impf rozmísťovat se
+impf rozmisťovat se
+pf rozmístit se
+impf rozmlouvat 
+pf rozmluvit 
+iter rozmlouvávat 
+impf rozmlouvat se
+pf rozmluvit se
+iter rozmlouvávat se
+impf rozmýšlet 
+pf rozmyslet 
+pf rozmyslit 
+impf rozmýšlet se
+pf rozmyslet se
+pf rozmyslit se
+impf rozmýšlet si
+pf rozmyslet si
+pf rozmyslit si
+impf rozpadávat se
+impf rozpadat1 se
+pf rozpadnout se
+pf rozpadat2 se
+impf rozplakávat 
+pf rozplakat 
+impf rozplakávat se
+pf rozplakat se
+impf rozplývat se
+pf rozplynout se
+impf rozpočítávat se
+pf rozpočítat se
+pf rozpočíst se
+impf rozpočítávat 
+pf rozpočítat 
+pf rozpočíst 
+impf rozpouštět se
+pf rozpustit se
+impf rozpoutávat 
+pf rozpoutat 
+impf rozpoutávat se
+pf rozpoutat se
+impf rozpoznávat 
+pf rozpoznat 
+impf rozptylovat 
+pf rozptýlit 
+impf rozptylovat se
+pf rozptýlit se
+impf rozpouštět 
+pf rozpustit 
+impf rozrůstat se
+pf rozrůst se
+impf rozsvěcet 
+impf rozsvěcovat 
+pf rozsvítit 
+impf rozsvěcet se
+impf rozsvěcovat se
+pf rozsvítit se
+impf rozšiřovat 
+pf rozšířit 
+impf rozšiřovat se
+pf rozšířit se
+impf roztahovat 
+pf roztáhnout 
+impf roztahovat se
+pf roztáhnout se
+impf roztrhávat 
+impf roztrhovat 
+pf roztrhnout 
+pf roztrhat 
+impf roztrhávat se
+impf roztrhovat se
+pf roztrhnout se
+pf roztrhat se
+impf rozumět 
+impf rozumět se
+impf rozumět si
+impf rozvádět 
+pf rozvést 
+impf rozvádět se
+pf rozvést se
+impf rozvíjet se
+pf rozvinout se
+impf rozvíjet 
+impf rozvinovat 
+pf rozvinout 
+impf ručit 
+impf růst 
+impf rušit 
+iter rušívat 
+impf rvát 
+impf rvát se
+impf rýsovat 
+impf rýsovat se
+impf řadit 
+iter řadívat 
+impf řadit se
+impf řádit 
+iter řádívat 
+impf řešit 
+iter řešívat 
+impf řezat 
+iter řezávat 
+impf řezat se
+impf říkat 
+pf říci 
+pf říct 
+iter říkávat 
+impf řídit 
+impf řídit se
+impf řítit se
+iter řítívat se
+impf řvát 
+iter řvávat 
+impf sázet 
+pf sadit 
+impf sázet se
+impf sahat 
+pf sáhnout 
+impf sbalovat 
+pf sbalit 
+pf sbalit se
+impf sbírat 
+pf sebrat 
+iter sbírávat 
+impf sbírat se
+pf sebrat se
+iter sbírávat se
+impf sbližovat 
+pf sblížit 
+impf sbližovat se
+pf sblížit se
+impf sdělovat 
+pf sdělit 
+impf sdílet 
+impf sdružovat 
+pf sdružit 
+impf sdružovat se
+pf sdružit se
+impf sečítat 
+impf sčítat 
+pf sečíst 
+pf sčíst 
+iter sečítávat 
+iter sčítávat 
+impf sedat2 
+pf sednout 
+iter sedávat2 
+impf sedět 
+iter sedat1 
+iter sedávat1 
+iter sedívat 
+impf shánět 
+pf sehnat 
+impf sehrávat 
+pf sehrát 
+impf sehrávat se
+pf sehrát se
+impf scházet 
+pf sejít 
+iter scházívat 
+impf scházet se
+pf sejít se
+iter scházívat se
+impf snímat 
+pf sejmout 
+impf selhávat 
+pf selhat 
+impf sepisovat 
+impf spisovat 
+pf sepsat 
+impf sestávat 
+impf sestavovat 
+pf sestavit 
+impf sestupovat 
+pf sestoupit 
+impf sestupovat se
+pf sestoupit se
+impf sestřelovat 
+pf sestřelit 
+pf sestřílet 
+impf setkávat se
+pf setkat se
+impf setrvávat 
+pf setrvat 
+impf svírat 
+pf sevřít 
+impf svírat se
+pf sevřít se
+impf seznamovat 
+pf seznámit 
+impf seznamovat se
+pf seznámit se
+pf sežrat 
+impf shánět se
+impf shazovat 
+pf shodit 
+pf sházet 
+impf shledávat 
+pf shledat 
+impf shledávat se
+pf shledat se
+impf shazovat se
+pf shodit se
+impf shodovat se
+pf shodnout se
+pf shořet 
+impf shrnovat 
+pf shrnout 
+impf shrnovat se
+pf shrnout se
+impf shromažďovat 
+pf shromáždit 
+impf shromažďovat se
+pf shromáždit se
+impf schovávat 
+pf schovat 
+impf schovávat se
+pf schovat se
+impf schvalovat 
+pf schválit 
+impf sídlit 
+iter sídlívat 
+impf signalizovat 
+impf sílit 
+impf sjednávat 
+pf sjednat 
+impf sjednocovat 
+pf sjednotit 
+impf sjednocovat se
+pf sjednotit se
+impf sjíždět 
+pf sjet 
+impf sjíždět se
+pf sjet se
+impf skákat 
+pf skočit 
+iter skákávat 
+impf skládat 
+pf složit 
+iter skládávat 
+impf skládat se
+pf složit se
+impf sklánět 
+pf sklonit 
+impf sklánět se
+pf sklonit se
+impf sklízet 
+pf sklidit 
+iter sklízívat 
+impf sklouzávat 
+impf sklouzat 
+pf sklouznout 
+impf sklouzávat se
+pf sklouznout se
+pf skoncovat 
+pf skoncovat se
+pf skončit 
+biasp skórovat 
+impf skrývat 
+pf skrýt 
+impf skrývat se
+impf skýtat 
+impf slábnout 
+impf slaďovat 
+pf sladit1 
+impf sladit2 
+impf slavit 
+iter slavívat 
+impf sledovat 
+impf slepovat 
+pf slepit 
+impf slepovat se
+pf slepit se
+impf slibovat 
+pf slíbit 
+impf slučovat 
+pf sloučit 
+impf slučovat se
+pf sloučit se
+impf sloužit 
+iter sloužívat 
+impf slušet 
+impf slušet se
+impf slyšet 
+iter slyšívat 
+impf smát se
+iter smávat se
+impf smazávat 
+pf smazat 
+pf smáznout 
+impf smazávat se
+pf smazat se
+pf smáznout se
+impf směřovat 
+impf smět 
+impf smíchávat 
+pf smíchat 
+impf smíchávat se
+pf smíchat se
+impf smiřovat 
+pf smířit 
+impf smiřovat se
+pf smířit se
+impf snášet 
+pf snést 
+iter snášívat 
+impf snášet se
+pf snést se
+iter snášívat se
+impf snažit se
+iter snažívat se
+impf sněžit 
+pf sníst 
+impf snít 
+iter snívat 
+impf snít se
+iter snívat se
+impf snižovat 
+pf snížit 
+impf snižovat se
+pf snížit se
+impf soudit 
+iter soudívat 
+impf soudit se
+iter soudívat se
+impf souhlasit 
+impf soupeřit 
+impf soustřeďovat 
+pf soustředit 
+impf soustřeďovat se
+pf soustředit se
+impf soutěžit 
+impf souviset 
+impf spadat1 
+impf spadávat1 
+pf spadnout 
+pf spadat2 
+impf spadat1 se
+impf spadávat1 se
+pf spadnout se
+pf spáchat 
+impf spalovat 
+pf spálit 
+impf spalovat se
+pf spálit se
+pf spasit 
+pf spasit se
+impf spát 
+iter spávat 
+impf spatřovat 
+pf spatřit 
+biasp specializovat se
+biasp specifikovat 
+impf spěchat 
+iter spěchávat 
+impf spekulovat 
+impf spět 
+impf splácet 
+pf splatit 
+impf splétat 
+pf splést 
+impf splétat se
+pf splést se
+impf splňovat 
+pf splnit 
+impf splňovat se
+pf splnit se
+impf splývat 
+pf splynout 
+iter splývávat 
+impf spočívat 
+pf spočinout 
+pf spočítat 
+impf spojovat 
+pf spojit 
+impf spojovat se
+pf spojit se
+impf spojovat si
+pf spojit si
+impf spokojovat se
+pf spokojit se
+impf spoléhat 
+pf spolehnout 
+impf spoléhat se
+pf spolehnout se
+pf spolknout 
+pf spolykat 
+impf spolupracovat 
+biasp sponzorovat 
+impf spotřebovávat 
+pf spotřebovat 
+impf spouštět 
+pf spustit 
+impf spouštět se
+pf spustit se
+pf spravit se
+impf spravovat 
+pf spravit 
+iter spravovávat 
+impf srážet 
+pf srazit 
+impf srážet se
+pf srazit se
+pf srovnat se
+impf srovnávat 
+pf srovnat 
+biasp stabilizovat 
+biasp stabilizovat se
+impf stáčet 
+pf stočit 
+impf stáčet se
+pf stočit se
+impf stačit1 
+pf stačit2 
+iter stačívat 
+impf stagnovat 
+impf stahovat 
+pf stáhnout 
+impf stahovat se
+pf stáhnout se
+pf stanout 
+impf stanovovat 
+pf stanovit 
+impf starat se
+iter starávat se
+impf stárnout 
+impf startovat 
+impf stát1 
+iter stávat1 
+impf stát2 
+iter stávat2 
+impf stávat3 se
+pf stát3 se
+impf stavět1 
+iter stavívat1 
+impf stavět1 se
+iter stavívat1 se
+impf stavět1 si
+iter stavívat1 si
+impf stavět2 
+iter stavívat2 
+impf stávkovat 
+impf stékat se
+pf stéci se
+pf stéct se
+impf stékat 
+pf stéci 
+pf stéct 
+impf stěhovat 
+iter stěhovávat 
+impf stěhovat se
+iter stěhovávat se
+impf stěžovat si
+iter stěžovávat si
+impf stíhat 
+pf stihnout 
+impf stimulovat 
+impf stiskat 
+pf stisknout 
+iter stiskávat 
+pf stisknout se
+impf stoupat 
+pf stoupnout 
+impf stoupat si
+pf stoupnout si
+impf strašit 
+iter strašívat 
+impf stravovat 
+pf strávit 
+pf strčit si
+impf strkat 
+pf strčit 
+iter strkávat 
+impf strhávat 
+impf strhovat 
+pf strhnout 
+pf strhat 
+pf strhnout se
+impf strkat se
+iter strkávat se
+impf střílet 
+pf střelit 
+iter střílívat 
+impf střetat 
+impf střetávat 
+pf střetnout 
+impf střetat se
+impf střetávat se
+pf střetnout se
+impf střežit 
+iter střežívat 
+impf střežit se
+impf střídat 
+iter střídávat 
+impf střídat se
+iter střídávat se
+impf střílet si
+iter střílívat si
+impf studovat 
+impf stupňovat 
+impf stupňovat se
+pf stvořit 
+impf stydět se
+iter stydívat se
+impf stýkat se
+iter stýkávat se
+impf stýskat se
+pf stesknout se
+pf stýsknout se
+iter stýskávat se
+impf stýskat si
+pf stesknout si
+pf stýsknout si
+iter stýskávat si
+impf sundavat 
+impf sundávat 
+pf sundat 
+impf sužovat 
+impf sužovat se
+impf svádět 
+pf svést 
+iter svádívat 
+impf svazovat 
+pf svázat 
+impf svážet 
+pf svézt 
+iter svážívat 
+impf svážet se
+pf svézt se
+impf svědčit 
+iter svědčívat 
+impf svěřovat 
+pf svěřit 
+impf svěřovat se
+pf svěřit se
+impf svítit 
+impf svlékat 
+pf svléknout 
+pf svléci 
+pf svléct 
+iter svlékávat 
+impf svlékat se
+pf svléknout se
+pf svléci se
+pf svléct se
+iter svlékávat se
+impf svolávat 
+pf svolat 
+impf svrhávat 
+impf svrhovat 
+impf svrhat 
+pf svrhnout 
+impf symbolizovat 
+impf sypat 
+iter sypávat 
+impf sypat se
+iter sypávat se
+impf šeptat 
+pf šeptnout 
+iter šeptávat 
+impf šetřit1 
+iter šetřívat 
+impf šetřit2 
+impf šířit 
+impf šířit se
+impf šít 
+impf škodit 
+impf šlapat 
+pf šlápnout 
+iter šlapávat 
+biasp šokovat 
+impf šplhat 
+iter šplhávat 
+pf šplhnout si
+impf štvát 
+iter štvávat 
+impf štvát se
+iter štvávat se
+impf tahat 
+impf tahat se
+impf táhnout 
+impf táhnout se
+impf tajit 
+iter tajívat 
+impf tajit se
+iter tajívat se
+impf tančit 
+impf tancovat 
+iter tančívat 
+impf tázat se
+iter tázávat se
+impf téci 
+impf téct 
+impf telefonovat 
+impf testovat 
+impf těšit 
+iter těšívat 
+impf těšit se
+iter těšívat se
+impf těžit 
+iter těžívat 
+impf tisknout 
+impf tisknout se
+impf tkvít 
+impf tkvět 
+iter tkvívat 
+impf tlačit 
+iter tlačívat 
+impf tlačit se
+iter tlačívat se
+impf tleskat 
+pf tlesknout 
+iter tleskávat 
+impf tlouci se
+impf tlouct se
+iter tloukávat se
+impf tlouci 
+impf tlouct 
+iter tloukávat 
+impf tlumit 
+iter tlumívat 
+impf tlumočit 
+iter tlumočívat 
+impf točit 
+iter točívat 
+impf točit se
+iter točívat se
+impf tolerovat 
+impf topit1 
+impf topit2 
+impf topit2 se
+impf toulat se
+iter toulávat se
+impf toužit 
+iter toužívat 
+biasp transformovat 
+biasp transformovat se
+impf trápit 
+iter trápívat 
+impf trápit se
+iter trápívat se
+impf trávit1 
+iter trávívat1 
+impf trávit2 
+iter trávívat2 
+impf trčet 
+iter trčívat 
+impf trefovat 
+pf trefit 
+impf trefovat se
+pf trefit se
+impf trénovat 
+impf trestat 
+iter trestávat 
+impf trhat 
+pf trhnout 
+iter trhávat 
+impf trhat se
+pf trhnout se
+iter trhávat se
+biasp triumfovat 
+impf troufat si
+pf troufnout si
+impf trpět 
+iter trpívat 
+impf trvat 
+iter trvávat 
+impf třást 
+impf třást se
+impf třídit 
+iter třídívat 
+impf třít 
+impf třít se
+impf tušit 
+iter tušívat 
+impf tvářit se
+iter tvářívat se
+impf tvořit 
+iter tvořívat 
+impf tvořit se
+iter tvořívat se
+impf tvrdit1 
+iter tvrdívat1 
+impf tvrdit2 
+iter tvrdívat2 
+impf týkat se
+impf ubíhat 
+pf uběhnout 
+impf ubírat se
+impf ubírat 
+pf ubrat 
+impf ubližovat 
+pf ublížit 
+pf ubránit 
+pf ubránit se
+impf ubytovávat 
+pf ubytovat 
+impf ubytovávat se
+pf ubytovat se
+impf ubývat 
+pf ubýt 
+pf ucítit 
+impf účastnit se
+iter účastnívat se
+pf učinit 
+impf účinkovat 
+iter účinkovávat 
+impf učit 
+iter učívat 
+impf učit se
+iter učívat se
+impf účtovat 
+impf udávat1 
+pf udat 
+impf udávat2 se
+pf udát se
+pf udělat 
+pf udělat se
+impf udělovat 
+impf udílet 
+pf udělit 
+pf udeřit 
+pf udeřit se
+impf udržovat 
+pf udržet 
+impf udržovat se
+pf udržet se
+impf udržovat si
+pf udržet si
+impf uhadovat 
+pf uhodnout 
+pf uhádnout 
+pf uhájit 
+impf uhýbat 
+pf uhnout 
+pf uhodit 
+pf uhodit se
+impf uhrazovat 
+pf uhradit 
+pf uhrát 
+impf ucházet1 
+pf ujít 
+impf ucházet2 se
+impf uchopovat 
+pf uchopit 
+impf uchovávat 
+pf uchovat 
+impf uchovávat se
+pf uchovat se
+pf uchránit 
+pf uchránit se
+impf uchvacovat 
+pf uchvátit 
+impf uchylovat se
+pf uchýlit se
+impf ujíždět 
+pf ujet 
+impf ujímat 
+pf ujmout 
+impf ujímat se
+pf ujmout se
+impf ujišťovat 
+pf ujistit 
+impf ukazovat 
+pf ukázat 
+impf ukazovat se
+pf ukázat se
+impf ukládat 
+pf uložit 
+impf ukládat se
+pf uložit se
+impf uklánět 
+pf uklonit 
+impf uklánět se
+pf uklonit se
+pf uklidit se
+impf uklízet 
+pf uklidit 
+iter uklízívat 
+impf uklidňovat 
+pf uklidnit 
+impf uklidňovat se
+pf uklidnit se
+impf ukončovat 
+pf ukončit 
+impf ukrádat 
+pf ukrást 
+pf ukradnout 
+impf ukrádat si
+pf ukrást si
+pf ukradnout si
+impf ukrývat 
+pf ukrýt 
+impf ukrývat se
+pf ukrýt se
+impf ulehčovat se
+pf ulehčit se
+impf ulehčovat 
+pf ulehčit 
+impf ulevovat 
+pf ulevit 
+impf ulevovat se
+pf ulevit se
+impf ulevovat si
+pf ulevit si
+pf ulovit 
+impf umět 
+iter umívat 
+impf umírat 
+pf umřít 
+impf umisťovat 
+impf umísťovat 
+pf umístit 
+impf umisťovat se
+impf umísťovat se
+pf umístit se
+impf umožňovat 
+pf umožnit 
+impf umývat 
+pf umýt 
+impf unášet 
+pf unést 
+impf unavovat 
+pf unavit 
+impf unavovat se
+pf unavit se
+impf unikat 
+pf uniknout 
+impf upadat1 
+impf upadávat 
+pf upadnout 
+pf upadat2 
+pf upéci 
+pf upéct 
+pf upéci se
+pf upéct se
+impf upevňovat 
+pf upevnit 
+impf upevňovat se
+pf upevnit se
+impf upírat1 
+pf upřít1 
+impf upírat1 se
+pf upřít1 se
+impf upírat2 
+pf upřít2 
+impf uplatňovat 
+pf uplatnit 
+impf uplatňovat se
+pf uplatnit se
+pf uplést 
+impf uplývat 
+pf uplynout 
+pf uposlechnout 
+impf upouštět 
+pf upustit 
+impf upoutávat 
+pf upoutat 
+impf upozorňovat 
+pf upozornit 
+impf upravovat 
+pf upravit 
+impf upravovat se
+pf upravit se
+impf uprchat 
+pf uprchnout 
+iter uprchávat 
+impf upřesňovat 
+pf upřesnit 
+pf upříst 
+impf urážet 
+pf urazit 
+impf urážet se
+pf urazit se
+impf určovat 
+pf určit 
+impf urychlovat 
+pf urychlit 
+impf usazovat 
+pf usadit 
+impf usazovat se
+pf usadit se
+impf usedat 
+pf usednout 
+iter usedávat 
+impf usilovat 
+impf usínat 
+pf usnout 
+impf uskutečňovat 
+pf uskutečnit 
+impf uskutečňovat se
+pf uskutečnit se
+pf uslyšet 
+impf usmívat se
+pf usmát se
+impf usmrcovat 
+pf usmrtit 
+impf usnadňovat 
+pf usnadnit 
+impf usnášet se
+pf usnést se
+impf usuzovat 
+pf usoudit 
+pf uspět 
+impf uspokojovat 
+pf uspokojit 
+pf uspořádat 
+impf ustalovat 
+pf ustálit 
+impf ustalovat se
+pf ustálit se
+pf ustanovit se
+impf ustanovovat 
+pf ustanovit 
+pf ustát 
+impf ustávat1 
+pf ustat 
+impf ustávat2 se
+pf ustát se
+impf ustavovat 
+pf ustavit 
+impf ústit 
+impf ustupovat 
+pf ustoupit 
+impf usvědčovat 
+pf usvědčit 
+pf ušetřit 
+pf ušít 
+impf ušklebovat se
+impf ušklibovat se
+impf ušklíbat se
+pf ušklíbnout se
+pf uškodit 
+impf utajovat 
+pf utajit 
+impf utápět 
+pf utopit 
+impf utápět se
+pf utopit se
+impf utíkat 
+pf utéci 
+pf utéct 
+iter utíkávat 
+impf utíkat se
+pf utéci se
+pf utéct se
+iter utíkávat se
+impf utěšovat 
+pf utěšit 
+impf utěšovat se
+pf utěšit se
+impf utírat 
+pf utřít 
+iter utírávat 
+impf utkávat1 
+pf utkat1 
+impf utkávat2 se
+pf utkat2 se
+impf útočit 
+impf utrácet 
+pf utratit 
+impf utrhávat se
+impf utrhovat se
+impf utrhat2 se
+pf utrhnout se
+pf utrhat1 se
+impf utrhávat 
+impf utrhovat 
+impf utrhat2 
+pf utrhnout 
+pf utrhat1 
+pf utrpět 
+impf utvářet 
+pf utvořit 
+pf utvářit 
+impf utvářet se
+pf utvořit se
+pf utvářit se
+impf uvádět 
+pf uvést 
+impf uvalovat 
+pf uvalit 
+pf uvařit 
+pf uvařit se
+pf uváznout 
+pf uvíznout 
+impf uvažovat 
+pf uvážit 
+iter uvažovávat 
+impf uvědomovat 
+pf uvědomit 
+impf uvědomovat si
+pf uvědomit si
+impf uveřejňovat 
+pf uveřejnit 
+pf uvěřit 
+impf uvězňovat 
+pf uvěznit 
+pf uvidět 
+pf uvítat 
+pf uvítat se
+impf uvolňovat 
+pf uvolnit 
+impf uvolňovat se
+pf uvolnit se
+impf uzavírat 
+pf uzavřít 
+impf uzavírat se
+pf uzavřít se
+impf uzdravovat 
+pf uzdravit 
+impf uzdravovat se
+pf uzdravit se
+impf uznávat 
+pf uznat 
+impf užívat 
+pf užít 
+pf uživit 
+impf vadit1 
+iter vadívat1 
+impf vadit2 se
+iter vadívat2 se
+impf váhat 
+impf válet 
+impf válet se
+impf valit 
+iter valívat 
+impf valit se
+iter valívat se
+impf varovat 
+impf varovat se
+impf vařit 
+iter vařívat 
+impf vařit se
+iter vařívat se
+impf vázat 
+impf vázat se
+impf váznout 
+impf vážit 
+impf vážit si
+impf vdávat 
+pf vdát 
+impf vdávat se
+pf vdát se
+impf vděčit 
+impf vědět 
+impf vědět si
+pf vejít se
+impf vcházet 
+pf vejít 
+iter vcházívat 
+impf velet 
+impf věnovat 
+impf věnovat se
+impf věřit 
+iter věřívat 
+impf vést 
+impf vést se
+impf vést si
+impf vévodit 
+impf vězet 
+impf věznit 
+iter věznívat 
+impf vézt 
+impf vézt se
+impf vhazovat 
+pf vhodit 
+pf vházet 
+impf vidět 
+iter vídat 
+impf vidět se
+iter vidívat se
+impf vinit 
+iter vinívat 
+impf viset 
+impf vít 
+impf vít se
+impf vítat 
+iter vítávat 
+impf vítat se
+iter vítávat se
+impf vítězit 
+iter vítězívat 
+impf vjíždět 
+pf vjet 
+iter vjíždívat 
+impf vkládat 
+pf vložit 
+pf vkročit 
+impf vláčet se
+impf vláčit se
+iter vláčívat se
+impf vláčet 
+impf vláčit 
+iter vláčívat 
+impf vládnout 
+impf vlastnit 
+iter vlastnívat 
+impf vléci se
+impf vléct se
+impf vléci 
+impf vléct 
+impf vlepovat 
+pf vlepit 
+impf vlézat 
+pf vlézt 
+impf vloupávat se
+impf vlupovat se
+pf vloupat se
+pf vložit se
+impf vmíchávat 
+pf vmíchat 
+impf vmíchávat se
+pf vmíchat se
+impf vnášet 
+pf vnést 
+iter vnášívat 
+pf vnést se
+impf vnikat 
+pf vniknout 
+impf vnímat 
+impf vnucovat 
+pf vnutit 
+impf vnucovat se
+pf vnutit se
+impf vodit 
+iter vodívat 
+impf vodit se
+iter vodívat se
+impf volat 
+iter volávat 
+impf volit 
+iter volívat 
+impf vonět 
+iter vonívat 
+impf vozit 
+iter vozívat 
+impf vozit se
+iter vozívat se
+impf vpouštět 
+pf vpustit 
+impf vracet 
+pf vrátit 
+iter vracívat 
+impf vracet se
+pf vrátit se
+iter vracívat se
+impf vrážet 
+pf vrazit 
+impf vrážet se
+pf vrazit se
+impf vraždit 
+iter vraždívat 
+impf vrhat 
+pf vrhnout 
+iter vrhávat 
+impf vrhat se
+pf vrhnout se
+iter vrhávat se
+impf vrcholit 
+impf vrcholit se
+impf vrtět 
+iter vrtívat 
+impf vrtět se
+iter vrtívat se
+impf vsázet se
+pf vsadit se
+impf vsazovat 
+impf vsázet 
+pf vsadit 
+impf vstávat 
+pf vstát 
+impf vstupovat 
+pf vstoupit 
+pf vstřelit 
+impf vsunovat 
+impf vsouvat 
+pf vsunout 
+impf vsunovat se
+impf vsouvat se
+pf vsunout se
+impf všímat si
+pf všimnout si
+impf vtahovat 
+pf vtáhnout 
+impf vtahovat se
+pf vtáhnout se
+impf vtiskat 
+impf vtiskovat 
+impf vtiskávat 
+pf vtisknout 
+impf vtiskat se
+impf vtiskovat se
+impf vtiskávat se
+pf vtisknout se
+impf vtrhávat 
+impf vtrhovat 
+pf vtrhnout 
+impf vybavovat 
+pf vybavit 
+impf vybavovat se
+pf vybavit se
+impf vybavovat si
+pf vybavit si
+impf vyběhávat 
+pf vyběhat 
+impf vybíhat 
+pf vyběhnout 
+iter vybíhávat 
+impf vybízet 
+pf vybídnout 
+impf vybírat 
+pf vybrat 
+iter vybírávat 
+impf vybírat se
+pf vybrat se
+impf vybojovávat 
+pf vybojovat 
+pf vybudovat 
+impf vybuchovat 
+impf vybuchávat 
+impf vybuchat 
+pf vybuchnout 
+pf vybouchnout 
+impf vyciťovat 
+pf vycítit 
+impf vyčerpávat 
+pf vyčerpat 
+impf vyčerpávat se
+pf vyčerpat se
+pf vyčinit1 
+pf vyčinit2 
+impf vyčíslovat 
+pf vyčíslit 
+pf vyčistit 
+pf vyčistit se
+impf vyčítat 
+pf vyčíst 
+impf vyčkávat 
+pf vyčkat 
+impf vyčleňovat 
+pf vyčlenit 
+impf vyčleňovat se
+pf vyčlenit se
+pf vydařit se
+impf vydávat 
+pf vydat 
+impf vydávat se
+pf vydat se
+impf vydechovat 
+impf vydychovat 
+pf vydýchnout 
+pf vydechnout 
+pf vydychnout 
+pf vydělat se
+impf vydělávat 
+pf vydělat 
+impf vyděšovat 
+pf vyděsit 
+impf vyděšovat se
+pf vyděsit se
+impf vydírat 
+pf vydřít 
+pf vydrat 
+impf vydírat se
+pf vydřít se
+pf vydrat se
+pf vydržet 
+pf vyfotografovat 
+impf vyhánět 
+pf vyhnat 
+impf vyhazovat 
+pf vyhodit 
+pf vyházet 
+impf vyhazovat si
+pf vyhodit si
+impf vyhlašovat 
+pf vyhlásit 
+impf vyhledávat 
+pf vyhledat 
+impf vyhlížet 
+impf vyhlédat 
+pf vyhlédnout 
+impf vyhýbat se
+pf vyhnout se
+impf vyhodnocovat 
+pf vyhodnotit 
+impf vyhovovat 
+pf vyhovět 
+impf vyhrazovat1 
+pf vyhradit1 
+impf vyhrazovat1 si
+pf vyhradit1 si
+impf vyhrazovat2 
+pf vyhradit2 
+pf vyhrát se
+pf vyhrát si
+impf vyhrávat 
+pf vyhrát 
+impf vyhrkat1 
+impf vyhrkávat 
+impf vyhrkovat 
+pf vyhrknout 
+pf vyhrkat2 se
+impf vyhrožovat 
+impf vycházet 
+pf vyjít 
+iter vycházívat 
+impf vycházet si
+pf vyjít si
+iter vycházívat si
+impf vychovávat 
+pf vychovat 
+impf vychutnávat 
+pf vychutnat 
+impf vychutnávat si
+pf vychutnat si
+impf vyjadřovat 
+pf vyjádřit 
+impf vyjadřovat se
+pf vyjádřit se
+impf vyjasňovat 
+pf vyjasnit 
+impf vyjasňovat se
+pf vyjasnit se
+impf vyjasňovat si
+pf vyjasnit si
+impf vyjednávat 
+pf vyjednat 
+impf vyjíždět 
+pf vyjet 
+iter vyjíždívat 
+impf vyjíždět si
+pf vyjet si
+iter vyjíždívat si
+impf vyjímat se
+impf vyjímat 
+pf vyjmout 
+impf vyjmenovávat 
+pf vyjmenovat 
+impf vykazovat 
+pf vykázat 
+impf vykazovat se
+pf vykázat se
+impf vykládat1 
+pf vyložit1 
+iter vykládávat1 
+impf vykládat2 
+pf vyložit2 
+iter vykládávat2 
+impf vyklízet 
+impf vyklizovat 
+pf vyklidit 
+impf vyklízet se
+impf vyklizovat se
+pf vyklidit se
+impf vykonávat 
+pf vykonat 
+impf vykupovat 
+pf vykoupit 
+impf vykračovat 
+impf vykročovat 
+impf vykráčet 
+pf vykročit 
+impf vykrádat 
+pf vykrást 
+impf vykrádat se
+pf vykrást se
+impf vykřikovat 
+pf vykřiknout 
+pf vyléčit 
+pf vyléčit se
+impf vylepšovat 
+pf vylepšit 
+impf vylepšovat se
+pf vylepšit se
+impf vylétat1 
+impf vyletovat 
+pf vyletět 
+pf vylétnout 
+pf vylétat2 
+iter vylétávat 
+impf vylévat 
+pf vylít 
+impf vylévat se
+pf vylít se
+impf vylévat si
+pf vylít si
+impf vylézat 
+pf vylézt 
+pf vylíčit 
+impf vylučovat 
+pf vyloučit 
+impf vylučovat se
+pf vyloučit se
+impf vymáhat 
+pf vymoci 
+pf vymoct 
+impf vymaňovat 
+pf vymanit 
+impf vymaňovat se
+pf vymanit se
+impf vymazávat 
+pf vymazat 
+impf vyměňovat 
+pf vyměnit 
+impf vyměřovat 
+pf vyměřit 
+impf vymezovat 
+pf vymezit 
+impf vymezovat se
+pf vymezit se
+pf vymizet 
+pf vymknout 
+impf vymykat se
+pf vymknout se
+impf vymlouvat 
+pf vymluvit 
+impf vymlouvat se
+pf vymluvit se
+impf vymýšlet 
+pf vymyslet 
+pf vymyslit 
+impf vynakládat 
+pf vynaložit 
+impf vynášet 
+pf vynést 
+impf vynášet se
+pf vynést se
+impf vyndávat 
+impf vyndavat 
+pf vyndat 
+impf vynechávat 
+pf vynechat 
+impf vynikat 
+pf vyniknout 
+impf vynořovat 
+pf vynořit 
+impf vynořovat se
+pf vynořit se
+impf vynucovat 
+pf vynutit 
+impf vypadávat 
+pf vypadat1 
+pf vypadnout 
+impf vypadat2 
+impf vypalovat 
+pf vypálit 
+pf vypátrat 
+pf vypěstovat 
+pf vypěstit 
+impf vypínat1 
+pf vypnout1 
+impf vypínat1 se
+pf vypnout1 se
+impf vypínat2 
+pf vypnout2 
+impf vypínat2 se
+pf vypnout2 se
+impf vypisovat 
+pf vypsat 
+pf vypít 
+pf vypít si
+impf vyplácet 
+pf vyplatit 
+impf vyplácet se
+pf vyplatit se
+impf vyplňovat 
+pf vyplnit 
+impf vyplňovat se
+pf vyplnit se
+impf vyplývat 
+pf vyplynout 
+pf vypočítat si
+pf vypočíst si
+impf vypočítávat 
+pf vypočítat 
+pf vypočíst 
+impf vypořádávat 
+pf vypořádat 
+impf vypořádávat se
+pf vypořádat se
+impf vypouštět 
+pf vypustit 
+impf vypovídat1 
+pf vypovědět1 
+pf vypovídat2 
+pf vypovědět2 
+impf vypovídat1 se
+impf vypracovávat 
+pf vypracovat 
+impf vypracovávat se
+pf vypracovat se
+impf vyprávět 
+impf vypravovat2 
+iter vypravovávat2 
+impf vypravovat1 
+pf vypravit 
+iter vypravovávat1 
+impf vypravovat1 se
+pf vypravit se
+iter vypravovávat1 se
+impf vyprodávat 
+pf vyprodat 
+pf vyprodukovat 
+impf vyprošťovat 
+pf vyprostit 
+impf vyprošťovat se
+pf vyprostit se
+impf vyprovokovávat 
+pf vyprovokovat 
+pf vypršet 
+impf vyptávat se
+pf vyptat se
+pf vypůjčit si
+impf vypůjčovat 
+pf vypůjčit 
+pf vypuknout 
+impf vyrábět 
+pf vyrobit 
+pf vyrazit se
+impf vyrážet 
+pf vyrazit 
+impf vyrážet si
+pf vyrazit si
+impf vyrovnávat 
+pf vyrovnat 
+impf vyrovnávat se
+pf vyrovnat se
+impf vyrozumívat 
+pf vyrozumět 
+impf vyrůstat 
+pf vyrůst 
+impf vyřazovat 
+pf vyřadit 
+pf vyřešit 
+pf vyřídit1 se
+impf vyřizovat1 
+pf vyřídit1 
+impf vyřizovat1 si
+pf vyřídit1 si
+impf vyřizovat2 
+pf vyřídit2 
+impf vyřizovat2 se
+pf vyřídit2 se
+impf vysazovat 
+pf vysadit 
+pf vysázet 
+impf vysílat 
+pf vyslat 
+impf vyskakovat si
+impf vyskakovat 
+pf vyskočit 
+impf vyskytovat se
+pf vyskytnout se
+impf vyslýchat 
+pf vyslechnout 
+pf vyslyšet 
+impf vysluhovat 
+impf vysluhovat si
+pf vysloužit si
+impf vyslovovat 
+pf vyslovit 
+impf vyslovovat se
+pf vyslovit se
+pf vyspat se
+impf vyspávat 
+impf vystačovat 
+pf vystačit 
+pf vystavět 
+impf vystavovat 
+pf vystavit 
+impf vystěhovávat 
+pf vystěhovat 
+impf vystěhovávat se
+pf vystěhovat se
+impf vystihovat 
+pf vystihnout 
+impf vystupovat 
+pf vystoupit 
+impf vystřelovat si
+pf vystřelit si
+impf vystřelovat 
+pf vystřelit 
+pf vystřílet 
+pf vystřídat 
+pf vystřídat se
+impf vystřihovat 
+impf vystřihávat 
+impf vystříhávat1 
+pf vystřihnout 
+pf vystřihat 
+pf vystříhat1 
+iter vystřihovávat 
+biasp vystříhat2 se
+pf vystudovat 
+impf vysvětlovat 
+pf vysvětlit 
+impf vysýpat 
+impf vysypávat 
+pf vysypat 
+impf vysýpat se
+impf vysypávat se
+pf vysypat se
+impf vyšetřovat 
+pf vyšetřit 
+pf vyšplhat 
+impf vytáčet 
+pf vytočit 
+impf vytáčet se
+pf vytočit se
+impf vytahovat 
+pf vytáhnout 
+impf vytahovat se
+pf vytáhnout se
+impf vytěžovat1 
+pf vytěžit 
+impf vytěžovat2 
+pf vytížit 
+pf vytisknout 
+impf vytýkat 
+pf vytknout 
+iter vytýkávat 
+impf vytlačovat 
+impf vytláčet 
+pf vytlačit 
+impf vytrácet 
+pf vytratit 
+impf vytrácet se
+pf vytratit se
+impf vytrhávat se
+impf vytrhovat se
+pf vytrhnout se
+impf vytrhávat 
+impf vytrhovat 
+pf vytrhnout 
+impf vytvářet 
+pf vytvořit 
+impf vytvářet se
+pf vytvořit se
+pf vyučit se
+impf vyučovat 
+pf vyučit 
+iter vyučovávat 
+pf vyústit 
+impf využívat1 
+pf využít 
+iter využívávat1 
+pf využívat2 
+impf vyvádět 
+pf vyvést 
+impf vyvarovávat se
+pf vyvarovat se
+pf vyváznout 
+impf vyvážet 
+pf vyvézt 
+impf vyvěšovat 
+pf vyvěsit 
+impf vyvěšovat se
+pf vyvěsit se
+pf vyvést se
+impf vyvíjet 
+pf vyvinout 
+impf vyvíjet se
+pf vyvinout se
+impf vyvozovat 
+pf vyvodit 
+impf vyvolávat 
+pf vyvolat 
+impf vyvracet 
+pf vyvrátit 
+impf vyvracet se
+pf vyvrátit se
+impf vyvrcholovat 
+pf vyvrcholit 
+impf vyvstávat 
+pf vyvstat 
+impf vyzařovat 
+pf vyzářit 
+impf vyzařovat se
+pf vyzářit se
+impf vyzbrojovat 
+pf vyzbrojit 
+impf vyzdvihovat 
+impf vyzdvihávat 
+impf vyzdvihat 
+impf vyzdvíhat 
+pf vyzdvihnout 
+pf vyzkoušet 
+impf vyznačovat 
+pf vyznačit 
+impf vyznačovat se
+impf vyznamenávat 
+pf vyznamenat 
+impf vyznamenávat se
+pf vyznamenat se
+impf vyznávat 
+pf vyznat 
+impf vyznávat se
+pf vyznat se
+impf vyznívat 
+pf vyznít 
+impf vyzývat 
+pf vyzvat 
+impf vyzvedávat 
+impf vyzvedat 
+pf vyzvednout 
+impf vyžadovat 
+pf vyžádat 
+impf vzbouzet se
+pf vzbudit se
+impf vzbouzet 
+impf vzbuzovat 
+pf vzbudit 
+impf vzdalovat 
+pf vzdálit 
+impf vzdalovat se
+pf vzdálit se
+impf vzdávat 
+pf vzdát 
+impf vzdávat se
+pf vzdát se
+impf vzdychat 
+pf vzdechnout 
+pf vzdychnout 
+iter vzdychávat 
+impf vzdorovat 
+iter vzdorovávat 
+impf vzcházet 
+pf vzejít 
+impf vzhlížet 
+impf vzhlédat 
+pf vzhlédnout 
+iter vzhlížívat 
+impf vzkazovat 
+pf vzkázat 
+impf vznášet 
+pf vznést 
+impf vznášet se
+pf vznést se
+impf vznikat 
+pf vzniknout 
+impf vzpamatovávat se
+pf vzpamatovat se
+impf vzpomínat 
+pf vzpomenout 
+iter vzpomínávat 
+impf vzrůstat 
+pf vzrůst 
+iter vzrůstávat 
+impf vzrušovat 
+pf vzrušit 
+impf vzrušovat se
+pf vzrušit se
+impf vztahovat 
+pf vztáhnout 
+impf vztahovat se
+impf vztyčovat 
+pf vztyčit 
+impf vztyčovat se
+pf vztyčit se
+impf zabalovat 
+pf zabalit 
+impf zabavovat1 
+pf zabavit1 
+impf zabavovat2 
+pf zabavit2 
+impf zabezpečovat 
+pf zabezpečit 
+impf zabíjet 
+pf zabít 
+impf zabíjet se
+pf zabít se
+impf zabírat 
+pf zabrat 
+pf zablokovat 
+pf zablokovat se
+pf zabloudit 
+impf zabraňovat 
+pf zabránit 
+pf zabrat se
+impf zabývat se
+impf začínat 
+pf začít 
+iter začínávat 
+impf začínat si
+pf začít si
+iter začínávat si
+impf začleňovat 
+pf začlenit 
+impf začleňovat se
+pf začlenit se
+impf zadávat 
+pf zadat 
+impf zadávat si
+pf zadat si
+pf zadívat se
+impf zadržovat 
+pf zadržet 
+impf zahajovat 
+pf zahájit 
+impf zahalovat 
+pf zahalit 
+impf zahalovat se
+pf zahalit se
+impf zahánět 
+pf zahnat 
+pf zaházet si
+impf zahazovat 
+pf zahodit 
+pf zaházet 
+impf zahazovat se
+pf zahodit se
+pf zahledět se
+pf zahlédnout 
+impf zahýbat1 
+pf zahnout 
+impf zahrávat 
+pf zahrát 
+impf zahrávat si
+pf zahrát si
+impf zahrnovat 
+pf zahrnout 
+impf zahřívat 
+pf zahřát 
+impf zahřívat se
+pf zahřát se
+pf zahýbat2 
+pf zahýbat2 se
+pf zahynout 
+impf zacházet1 
+pf zajít 
+impf zacházet1 si
+pf zajít si
+impf zacházet2 
+impf zachovávat 
+pf zachovat 
+impf zachovávat se
+pf zachovat se
+impf zachraňovat 
+pf zachránit 
+impf zachraňovat se
+pf zachránit se
+impf zachvacovat 
+pf zachvátit 
+impf zachvívat 
+pf zachvět 
+impf zachvívat se
+pf zachvět se
+impf zachycovat 
+impf zachytávat 
+pf zachytit 
+pf zachytnout 
+impf zachycovat se
+impf zachytávat se
+pf zachytit se
+pf zachytnout se
+impf zajíždět 
+pf zajet 
+impf zajíždět si
+pf zajet si
+impf zajímat1 
+iter zajímávat1 
+impf zajímat1 se
+iter zajímávat1 se
+impf zajímat2 
+pf zajmout 
+impf zajišťovat 
+pf zajistit 
+impf zakazovat 
+pf zakázat 
+impf zakazovat si
+pf zakázat si
+impf zakládat si
+impf zakládat 
+pf založit 
+pf zaklepat 
+pf zaklepat se
+pf zakončit se
+impf zakončovat 
+pf zakončit 
+impf zakotvovat 
+pf zakotvit 
+impf zakupovat 
+pf zakoupit 
+impf zakupovat se
+pf zakoupit se
+impf zakrývat 
+pf zakrýt 
+impf zalévat 
+pf zalít 
+impf zalévat se
+pf zalít se
+impf záležet 
+pf zalíbit se
+pf zamávat 
+impf zaměřovat 
+pf zaměřit 
+impf zaměřovat se
+pf zaměřit se
+impf zaměstnávat 
+pf zaměstnat 
+impf zamezovat 
+pf zamezit 
+impf zamíchávat 
+pf zamíchat 
+impf zamíchávat se
+pf zamíchat se
+pf zamilovat se
+pf zamilovat si
+pf zamířit 
+impf zamítat 
+pf zamítnout 
+impf zamykat 
+pf zamknout 
+impf zamlouvat se
+impf zamlouvat 
+pf zamluvit 
+pf zamračit se
+pf zamumlat 
+impf zamýšlet se
+pf zamyslet se
+pf zamyslit se
+impf zamýšlet 
+impf zanášet 
+pf zanést 
+impf zanášet se
+pf zanést se
+impf zanedbávat 
+pf zanedbat 
+impf zanechávat 
+pf zanechat 
+impf zanikat 
+pf zaniknout 
+impf zaostávat 
+pf zaostat 
+impf zapadat1 
+impf zapadávat 
+pf zapadnout 
+pf zapadat2 
+pf zapálit si
+impf zapalovat 
+pf zapálit 
+impf zapalovat se
+pf zapálit se
+impf zapamatovávat si
+pf zapamatovat si
+pf zaparkovat 
+impf zápasit 
+iter zápasívat 
+impf zapínat 
+pf zapnout 
+impf zapírat1 
+pf zapřít1 
+impf zapírat2 
+pf zapřít2 
+impf zapírat2 se
+pf zapřít2 se
+impf zapírat3 
+pf zaprat 
+impf zapisovat 
+pf zapsat 
+pf zapsat se
+pf zaplatit 
+pf zaplatit se
+impf zaplavovat 
+pf zaplavit 
+impf zaplavovat se
+pf zaplavit se
+impf zaplétat 
+pf zaplést 
+impf zaplétat se
+pf zaplést se
+impf zaplňovat 
+pf zaplnit 
+impf zaplňovat se
+pf zaplnit se
+pf započít 
+impf započítávat 
+pf započítat 
+pf započíst 
+impf zapojovat 
+pf zapojit 
+impf zapomínat 
+pf zapomenout 
+impf zapomínat se
+pf zapomenout se
+impf zapůjčovat 
+pf zapůjčit 
+pf zapůsobit 
+impf zarážet 
+pf zarazit 
+impf zarážet se
+pf zarazit se
+pf zareagovat 
+pf zaregistrovat 
+impf zaručovat 
+pf zaručit 
+impf zaručovat se
+pf zaručit se
+impf zařazovat 
+impf zařaďovat 
+pf zařadit 
+impf zařazovat se
+impf zařaďovat se
+pf zařadit se
+impf zařizovat 
+pf zařídit 
+impf zařizovat se
+pf zařídit se
+impf zářit 
+iter zářívat 
+pf zařvat 
+impf zasazovat 
+pf zasadit 
+pf zasázet 
+impf zasazovat se
+pf zasadit se
+impf zasahovat 
+pf zasáhnout 
+impf zasedat 
+pf zasednout 
+iter zasedávat 
+impf zasedat si
+pf zasednout si
+iter zasedávat si
+impf zasílat 
+pf zaslat 
+impf zaskakovat 
+pf zaskočit 
+pf zaslechnout 
+pf zasloužit se
+impf zasluhovat 
+pf zasloužit 
+pf zasmát se
+impf zásobovat 
+pf zásobit 
+impf zasunovat 
+impf zasouvat 
+pf zasunout 
+pf zasout 
+impf zastávat 
+pf zastat 
+impf zastávat se
+pf zastat se
+impf zastavovat1 
+pf zastavit1 
+impf zastavovat1 se
+pf zastavit1 se
+impf zastavovat2 
+pf zastavit2 
+pf zastavět 
+impf zastavovat3 
+pf zastavit3 
+impf zastihovat 
+pf zastihnout 
+impf zastiňovat 
+pf zastínit 
+impf zastírat 
+pf zastřít 
+impf zastírat se
+pf zastřít se
+impf zastupovat 
+pf zastoupit 
+pf zastřelit 
+pf zastřelit se
+impf zasvěcovat 
+pf zasvětit 
+impf zasypávat 
+impf zasýpat 
+pf zasypat 
+pf zašeptat 
+impf zatáčet 
+pf zatočit 
+impf zatáčet se
+pf zatočit se
+impf zatahovat 
+pf zatáhnout 
+pf zatahat 
+impf zatahovat se
+pf zatáhnout se
+pf zatelefonovat 
+impf zatěžovat 
+pf zatížit 
+impf zatýkat 
+pf zatknout 
+impf zatlačovat 
+pf zatlačit 
+pf zatoužit 
+impf zaujímat 
+pf zaujmout 
+pf zaujmout se
+pf zaútočit 
+impf zavádět 
+pf zavést 
+pf zaváhat 
+impf zavazovat 
+pf zavázat 
+impf zavazovat se
+pf zavázat se
+impf zavěšovat 
+pf zavěsit 
+impf zavěšovat se
+pf zavěsit se
+pf zavést se
+impf závidět 
+iter závidívat 
+pf zavinit 
+impf zavírat se
+pf zavřít se
+impf zavírat 
+pf zavřít 
+impf záviset 
+impf zavítávat 
+pf zavítat 
+impf zavládat 
+pf zavládnout 
+impf závodit 
+pf zavolat 
+pf zavraždit 
+impf zavrhovat 
+pf zavrhnout 
+impf završovat 
+pf završit 
+impf završovat se
+pf završit se
+pf zavrtět 
+pf zavrtět se
+pf zazářit 
+impf zaznamenávat 
+pf zaznamenat 
+impf zaznívat 
+pf zaznít 
+pf zazpívat 
+pf zazvonit 
+impf zažívat 
+pf zažít 
+impf zbavovat 
+pf zbavit 
+impf zbavovat se
+pf zbavit se
+pf zbít 
+pf zbláznit 
+pf zbláznit se
+pf zbohatnout 
+pf zbourat 
+impf zbožňovat 
+pf zbožnit 
+pf zbýt se
+impf zbývat 
+pf zbýt 
+impf zdaňovat 
+pf zdanit 
+pf zdařit se
+impf zdát se
+iter zdávat se
+pf zdědit 
+pf zděsit 
+pf zděsit se
+impf zdobit 
+iter zdobívat 
+impf zdolávat 
+pf zdolat 
+impf zdráhat se
+iter zdráhávat se
+impf zdražovat 
+pf zdražit 
+impf zdržovat 
+pf zdržet 
+impf zdržovat se
+pf zdržet se
+impf zdůrazňovat 
+pf zdůraznit 
+impf zdůvodňovat 
+pf zdůvodnit 
+impf zdvihat 
+impf zdvíhat 
+pf zdvihnout 
+iter zdvihávat 
+impf zdvihat se
+impf zdvíhat se
+pf zdvihnout se
+iter zdvihávat se
+impf zdvojnásobovat 
+pf zdvojnásobit 
+impf zdvojnásobovat se
+pf zdvojnásobit se
+pf zemřít 
+pf zeptat se
+impf zesilovat 
+pf zesílit 
+impf zesilovat se
+impf zhasínat 
+pf zhasnout 
+pf zhlédnout 
+impf zhlížet se
+pf zhlédnout se
+iter zhlížívat se
+pf zhodnotit 
+pf zhodnotit se
+impf zhoršovat 
+pf zhoršit 
+impf zhoršovat se
+pf zhoršit se
+impf zhotovovat 
+pf zhotovit 
+pf zhroutit 
+pf zhroutit se
+pf zhubnout 
+impf zírat 
+iter zírávat 
+impf získávat 
+pf získat 
+impf získávat si
+pf získat si
+impf zjednodušovat 
+pf zjednodušit 
+impf zjednodušovat se
+pf zjednodušit se
+impf zjevovat 
+pf zjevit 
+iter zjevovávat 
+impf zjevovat se
+pf zjevit se
+iter zjevovávat se
+impf zjišťovat 
+pf zjistit 
+pf zkazit 
+pf zkazit se
+pf zklamat 
+pf zklamat se
+pf zkomplikovat 
+pf zkomplikovat se
+pf zkontrolovat 
+impf zkoumat 
+impf zkoušet 
+pf zkusit 
+iter zkoušívat 
+impf zkracovat 
+pf zkrátit 
+impf zkracovat se
+pf zkrátit se
+pf zkrachovat 
+pf zlákat 
+pf zlomit 
+pf zlámat 
+impf zlepšovat 
+pf zlepšit 
+impf zlepšovat se
+pf zlepšit se
+pf zlikvidovat 
+impf zlobit 
+iter zlobívat 
+impf zlobit se
+iter zlobívat se
+pf zlomit se
+pf zlámat se
+pf zmáčknout 
+pf zmačkat 
+pf zmáčknout se
+pf zmačkat se
+impf zmáhat 
+pf zmoci 
+pf zmoct 
+impf zmáhat se
+pf zmoci se
+pf zmoct se
+pf zmapovat 
+pf zmařit 
+pf zmařit se
+pf zmást 
+pf zmást se
+pf změnit 
+pf změnit se
+impf zmenšovat 
+pf zmenšit 
+impf zmenšovat se
+pf zmenšit se
+pf změřit 
+impf zmiňovat 
+pf zmínit 
+impf zmiňovat se
+pf zmínit se
+impf zmírňovat 
+pf zmírnit 
+impf zmírňovat se
+pf zmírnit se
+impf zmítat 
+impf zmítat se
+pf zmizet 
+impf zmlkat 
+impf zmlkávat 
+pf zmlknout 
+impf zmocňovat 
+pf zmocnit 
+impf zmocňovat se
+pf zmocnit se
+impf zmrazovat 
+pf zmrazit 
+impf značit 
+iter značívat 
+impf znamenat 
+iter znamenávat 
+impf znásilňovat 
+pf znásilnit 
+impf znát 
+iter znávat 
+impf znát se
+iter znávat se
+impf znázorňovat 
+pf znázornit 
+impf znechucovat 
+pf znechutit 
+impf znechucovat se
+pf znechutit se
+impf znemožňovat 
+pf znemožnit 
+impf znepokojovat 
+pf znepokojit 
+impf znepokojovat se
+pf znepokojit se
+impf zneškodňovat 
+pf zneškodnit 
+impf zneužívat 
+pf zneužít 
+pf zničit 
+impf znít 
+iter znívat 
+impf zobrazovat 
+pf zobrazit 
+impf zobrazovat se
+pf zobrazit se
+impf zodpovídat 
+pf zodpovědět 
+impf zodpovídat se
+pf zodpovědět se
+pf zopakovat 
+pf zopakovat se
+pf zorganizovat 
+pf zorganizovat se
+pf zorientovat 
+pf zorientovat se
+impf zpevňovat 
+pf zpevnit 
+impf zpevňovat se
+pf zpevnit se
+impf zpívat 
+iter zpívávat 
+impf zpochybňovat 
+pf zpochybnit 
+impf zpomalovat 
+pf zpomalit 
+impf zpomalovat se
+pf zpomalit se
+pf zpozorovat 
+impf zpracovávat 
+pf zpracovat 
+pf zprivatizovat 
+impf zprošťovat 
+pf zprostit 
+impf zprostředkovávat 
+pf zprostředkovat 
+impf zpřísňovat 
+pf zpřísnit 
+impf zpřístupňovat 
+pf zpřístupnit 
+impf způsobovat 
+pf způsobit 
+impf zrazovat 
+impf zrázet 
+impf zrážet 
+pf zradit 
+pf zranit se
+impf zraňovat 
+pf zranit 
+impf zrcadlit 
+impf zrcadlit se
+pf zredukovat 
+pf zredukovat se
+pf zrodit 
+pf zrodit se
+impf zrušovat 
+pf zrušit 
+impf zrychlovat 
+pf zrychlit 
+impf zrychlovat se
+pf zrychlit se
+impf zříkat se
+pf zříci se
+pf zřeknout se
+impf zřizovat 
+pf zřídit 
+pf zřítit se
+impf ztěžovat 
+pf ztížit 
+impf ztěžovat se
+pf ztížit se
+impf ztotožňovat 
+pf ztotožnit 
+impf ztotožňovat se
+pf ztotožnit se
+impf ztrácet 
+pf ztratit 
+iter ztrácívat 
+impf ztrácet se
+pf ztratit se
+iter ztrácívat se
+impf ztroskotávat 
+pf ztroskotat 
+pf ztuhnout 
+impf ztvárňovat 
+pf ztvárnit 
+impf zúčastňovat se
+pf zúčastnit se
+impf zuřit 
+iter zuřívat 
+impf zůstávat 
+pf zůstat 
+impf zužovat 
+pf zúžit 
+impf zužovat se
+pf zúžit se
+impf zvát 
+iter zvávat 
+impf zvažovat 
+pf zvážit 
+impf zvedat 
+pf zvednout 
+iter zvedávat 
+impf zvedat se
+pf zvednout se
+impf zveřejňovat 
+pf zveřejnit 
+impf zvětšovat 
+pf zvětšit 
+impf zvětšovat se
+pf zvětšit se
+pf zvítězit 
+impf zvládat 
+pf zvládnout 
+pf zvolat 
+pf zvolit 
+impf zvonit 
+iter zvonívat 
+impf zvracet 
+pf zvrátit 
+impf zvracet se
+pf zvrátit se
+impf zvýhodňovat 
+pf zvýhodnit 
+impf zvykat 
+pf zvyknout 
+impf zvykat si
+pf zvyknout si
+impf zvýrazňovat 
+pf zvýraznit 
+impf zvýrazňovat se
+pf zvýraznit se
+impf zvyšovat 
+pf zvýšit 
+impf zvyšovat se
+pf zvýšit se
+impf žádat 
+iter žádávat 
+impf žádat si
+iter žádávat si
+impf žalovat 
+iter žalovávat 
+impf žárlit 
+iter žárlívat 
+impf žasnout 
+impf žít1 
+impf žít2 
+impf žnout 
+impf živit 
+impf živit se
+impf žrát 
+impf žrát se
