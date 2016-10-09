@@ -9,6 +9,10 @@ import java.util.List;
 import java.util.Set;
 import java.util.stream.Collectors;
 
+/**
+ * iterates over all english and czech corpus files, creates a Corpus parser for each file and gets and writes
+ * SentencePair one by one to a file
+ */
 public class MainApp {
     String intercorp_en2cs;
     String intercorp_en;
@@ -63,19 +67,18 @@ public class MainApp {
     }
 
 
-    public static void main(String[] args) throws IOException, DocumentException {
-        String dictionaryFilename = "vallex/dictionary.csv";
-        VallexGlosbeDictionary vallexGlosbeDictionary = new VallexGlosbeDictionary(dictionaryFilename);
-
-        String intercorp_en2cs = "correspondences_intercorp_en2cs";
-        String intercorp_en = "intercorp_en";
-        String intercorp_cs = "intercorp_cs";
-        String output_sentences = "output_sentences";
-
-        MainApp mainApp = new MainApp(intercorp_en2cs, intercorp_en, intercorp_cs, output_sentences);
-        List<String> allDocumentNames = mainApp.getAllDocumentNames();
-        mainApp.parseAllDocuments(allDocumentNames);
-
-
-    }
+//    public static void main(String[] args) throws IOException, DocumentException {
+//        String dictionaryFilename = "vallex/dictionary.csv";
+//        VallexGlosbeDictionary vallexGlosbeDictionary = new VallexGlosbeDictionary(dictionaryFilename);
+//
+//        String intercorp_en2cs = "correspondences_intercorp_en2cs";
+//        String intercorp_en = "intercorp_en";
+//        String intercorp_cs = "intercorp_cs";
+//        String output_sentences = "output_sentences";
+//
+//        MainApp mainApp = new MainApp(intercorp_en2cs, intercorp_en, intercorp_cs, output_sentences);
+//        List<String> allDocumentNames = mainApp.getAllDocumentNames();
+//        mainApp.parseAllDocuments(allDocumentNames);
+//
+//    }
 }

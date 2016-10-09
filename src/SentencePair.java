@@ -25,9 +25,15 @@ public class SentencePair {
         return this.english + "\n" + this.czech;
     }
 
-
+    /**
+     * the method is called for each english-czech sentence pair (which has fields full sentence and verb list)
+     * the verbs from the czech verb list are looked up in the VallexGlosbe combined dictionary -> aspect and set of meanings in english
+     * the list of verbs from the english sentence is compared to the list of english translations for the czech verb
+     * when correspondence is found, both verbs (token and infinitiv), the vallex aspect and both sentences are written to a file
+     */
     public void checkVerbCorrespondences() {
         //TODO: better as a field of the class???????????
+        //defines Sets of too frequent englisch verbs an czech verbs, that are not taken into concideration
         Set<String> tooFrequentToCare_cz = Stream.of("být").collect(Collectors.toCollection(HashSet::new));
         Set<String> tooFrequentToCare_en = Stream.of("be", "have", "know").collect(Collectors.toCollection(HashSet::new));
         //List<List<String>> verbCorrespondences = new ArrayList<>();
@@ -35,8 +41,8 @@ public class SentencePair {
         List<Verb> czechCorpusVerbs = this.czech.verbs;
         //System.out.println("verbLists: " + englishCorpusVerbs + "   " + czechCorpusVerbs);
 
-
-        for (Verb czCorpusVerb : czechCorpusVerbs) { // iterate over Verb list of the sentence from the czech corpus
+        // iterate over Verb list of the sentence from the czech corpus
+        for (Verb czCorpusVerb : czechCorpusVerbs) {
             //List<String> verbCorrespondence = new ArrayList<>();
             String infinitiv = czCorpusVerb.infinitiv.toLowerCase().trim();
 
