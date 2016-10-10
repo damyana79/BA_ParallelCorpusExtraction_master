@@ -36,14 +36,12 @@ public class SentencePair {
         //defines Sets of too frequent englisch verbs an czech verbs, that are not taken into concideration
         Set<String> tooFrequentToCare_cz = Stream.of("být").collect(Collectors.toCollection(HashSet::new));
         Set<String> tooFrequentToCare_en = Stream.of("be", "have", "know").collect(Collectors.toCollection(HashSet::new));
-        //List<List<String>> verbCorrespondences = new ArrayList<>();
+
         List<Verb> englishCorpusVerbs = this.english.verbs;
         List<Verb> czechCorpusVerbs = this.czech.verbs;
-        //System.out.println("verbLists: " + englishCorpusVerbs + "   " + czechCorpusVerbs);
 
         // iterate over Verb list of the sentence from the czech corpus
         for (Verb czCorpusVerb : czechCorpusVerbs) {
-            //List<String> verbCorrespondence = new ArrayList<>();
             String infinitiv = czCorpusVerb.infinitiv.toLowerCase().trim();
 
             if (!tooFrequentToCare_cz.contains(infinitiv)) {
@@ -52,21 +50,16 @@ public class SentencePair {
                 //was there an entry for the czech verb in Vallex
                 if (czDictVerb != null) {
                     Set<String> enTranslations = czDictVerb.enTranslations;
-                    //System.out.println("dictTranslations " + infinitiv + " " + enTranslations);
                     //was there an entry for the czech verb in Glosbe
                     if (enTranslations.size() != 0) {
                         for (Verb enCorpusVerb : englishCorpusVerbs) { // iterate over Verbs of the sentence from the english corpus
                             String en = enCorpusVerb.infinitiv.trim().toLowerCase(); // normalize
 
                             if ((!tooFrequentToCare_en.contains(en)) && enTranslations.contains(en)) {
-                                //System.out.println("COMPARISON " + enCorpusVerb);
-//                            verbCorrespondence.add(enCorpusVerb.infinitiv);
-//                            verbCorrespondence.add(czDictVerb.czVerb);
                                 czCorpusVerb.aspect = czDictVerb.aspect;
 
                                 String[] dataToWrite = {enCorpusVerb.token, enCorpusVerb.infinitiv, czCorpusVerb.token, czCorpusVerb.infinitiv, czCorpusVerb.aspect, this.english.fullSentence, this.czech.fullSentence};
                                 writeSentences(dataToWrite);
-                                //verbCorrespondences.add(verbCorrespondence); // [[v_en, v-cz], [...], ...]
                             }
                         }
                     }
@@ -83,13 +76,18 @@ public class SentencePair {
         }
     }
 
-    //TODO: expand with lookups for reflexives
+    //expanded with lookups for reflexives
     public VallexGlosbeVerb lookupVerb(String infinitiv) {
         VallexGlosbeVerb czDictVerb = VallexGlosbeDictionary.getInstance().get(infinitiv);
         if (czDictVerb == null) {
             if (isMaybeReflexive()) {
                 String reflexiveInfinitiv = infinitiv + " " + "se";
                 czDictVerb = VallexGlosbeDictionary.getInstance().get(reflexiveInfinitiv);
+            } else {
+                if (isMaybeReflexiveDative()) {
+                    String reflexiveInfinitivDativ = infinitiv + " " + "si";
+                    czDictVerb = VallexGlosbeDictionary.getInstance().get(reflexiveInfinitivDativ);
+                }
             }
         }
         return czDictVerb;
@@ -100,10 +98,7 @@ public class SentencePair {
         return this.czech.fullSentence.contains(" se ");
     }
 
+    public boolean isMaybeReflexiveDative() { return this.czech.fullSentence.contains(" si ");}
 
-//    public static void main(String[] args) {
-//        String test = " Razhodi se nasam natam";
-//        //System.out.println(test.contains(" se "));
-//    }
 
 }

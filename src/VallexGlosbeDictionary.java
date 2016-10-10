@@ -71,25 +71,17 @@ public class VallexGlosbeDictionary {
                     //TODO: for now the homographs (marked in VALLEX with a digit as a last character get disregarded)
                     // as their perfectivity value may be different and their meanings too
                     String[] ve = verb.split(" ");
-                    boolean condition = Character.isDigit(ve[0].charAt(ve[0].length() - 1));
-                    if (!condition) {
+                    boolean condition = Character.isDigit(ve[0].charAt(ve[0].length() - 1)); //checks for homographs
+                    if (!condition) { //if not a homograph
                         //initialize a verb
                         //get en translations
-                        //System.out.println(verb);
                         String jsonString = lookupVerb(verb);
-                        //System.out.println(jsonString);
                         Set<String> translations = getTranslations(jsonString);
                         if (translations.size() == 0) {
                         }
                         //TODO: do I want to keep both dicts? if not, translation.size - abfrage kommt hier
                         VallexGlosbeVerb entry = new VallexGlosbeVerb(verb, aspect, translations);
                         writeDictionary(entry);
-
-//                        if (translations.size() != 0) {
-//                            this.vallexGlosbeDictionary.put(verb, entry);
-//                        } else {
-//                            this.vallexVerbWithoutTranslation.put(verb, entry);
-//                        }
                     }
                 }
             }
@@ -100,7 +92,7 @@ public class VallexGlosbeDictionary {
     static Map<String, VallexGlosbeVerb> readDictionary(String filename) throws IOException {
         Map<String, VallexGlosbeVerb> dictionary = new HashMap<>();
         CSVReader reader = new CSVReader(new FileReader(filename), ',', '"');
-        //Read CSV line by line and use the string array as you want
+        //Read CSV line by line and use the string array
         String[] nextLine;
         while ((nextLine = reader.readNext()) != null) {
             String verb = nextLine[0];
