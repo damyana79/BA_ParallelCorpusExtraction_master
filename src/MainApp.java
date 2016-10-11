@@ -79,7 +79,7 @@ public class MainApp {
             Files.deleteIfExists(Paths.get(filename));
         } catch (IOException e) {
             System.err.println("Cannot access " + filename);
-            System.err.println(e);
+            e.printStackTrace();
             return;
         }
     }

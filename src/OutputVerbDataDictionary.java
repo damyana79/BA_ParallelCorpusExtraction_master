@@ -11,6 +11,26 @@ import java.nio.file.StandardOpenOption;
 import java.util.*;
 import java.util.stream.Collectors;
 
+
+class OutputVerbData {
+    Verb verb_en;
+    String fullSentence_en;
+
+    String infoStringCzVerb;
+
+    OutputVerbData(Verb verb_en, String fullSentence_en, String infoStringCzVerb) {
+        this.verb_en = verb_en;
+        this.fullSentence_en = fullSentence_en;
+        this.infoStringCzVerb = infoStringCzVerb;
+    }
+
+    @Override
+    public String toString() {
+        return this.verb_en + " " + this.fullSentence_en + "\n";
+    }
+}
+
+
 /**
  * processes the <verb: verbdata, sentence occurance> data from all output files from the processed corpus
  * and builds a dictionary for each verb: <verb : [data, all sentence occurances]>
@@ -84,20 +104,5 @@ public class OutputVerbDataDictionary {
 
 
 // main method not needed; constructor called in write Processed Output
-// public static void main(String[] args) throws IOException {
-//        String folderName = "output_sentences";
-//        OutputVerbDataDictionary outputProcessor = new OutputVerbDataDictionary(folderName);
-//
-//        //String filename = "test_output_sentences/output.csv";
-////        String folderName = "output_sentences";
-////        List<String> allFileNames = getAllDocumentNames(folderName);
-////        //System.out.println(allFileNames);
-////
-////        OutputVerbDataDictionary outputProcessor = new OutputVerbDataDictionary();
-////        for (String filename : allFileNames) {
-////            outputProcessor.buildOutputProcessor(filename);
-////        }
-//
-//    }
 
 }

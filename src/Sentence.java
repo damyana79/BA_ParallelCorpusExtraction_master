@@ -13,10 +13,10 @@ public class Sentence {
     }
 
     //TODO: dummy values; implement correctly!
-    private void getVerbs(String fullSentence) {
-        Verb ve = new Verb("placeholder", "no");
-        this.verbs.add(ve);
-    }
+//    private void getVerbs(String fullSentence) {
+//        Verb ve = new Verb("placeholder", "no");
+//        this.verbs.add(ve);
+//    }
 
     @Override
     public String toString() {

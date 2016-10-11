@@ -7,7 +7,7 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.nio.file.StandardOpenOption;
 
-public class SplitCorpusData {
+public class SplitCorpusXmlData {
 
 
     public static void readAndSplit(String inputFilename, String folderName) {
@@ -15,17 +15,14 @@ public class SplitCorpusData {
         try (BufferedReader reader = Files.newBufferedReader(path)) {
             StringBuilder text = new StringBuilder();
             String name = "";
-            //System.out.println("hi");
             String line = null;
-            while ((line = reader.readLine()) != null ) {
+            while ((line = reader.readLine()) != null) {
                 if (line.startsWith("<doc")) {
                     int first = line.indexOf("\"");
                     int second = line.indexOf("\"", first + 1);
                     name = line.substring(first + 1, second);
                 }
                 text.append(line + "\n");
-
-                //line = reader.readLine();
 
                 //beginn des nächsten documents
                 if (line.startsWith("</doc")) {
@@ -41,7 +38,6 @@ public class SplitCorpusData {
             e.printStackTrace();
             return;
         }
-
     }
 
     public static void writeToFile(String text, String outputFileName) {
@@ -56,7 +52,6 @@ public class SplitCorpusData {
             // System.out.println(e.getMessage());
             e.printStackTrace();
         }
-
     }
 
     public static void main(String[] args) {
