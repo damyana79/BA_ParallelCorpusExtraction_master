@@ -10,9 +10,17 @@ import java.nio.file.Paths;
 import java.nio.file.StandardOpenOption;
 import java.util.*;
 
+
+/**
+ * uses instance of OutputVerbDataDictionary to select for each verb occuring in the corpus data the first two sentences of occurance
+ */
 public class WriteProcessedOutput {
 
-
+    /**
+     * writes 2 selected sentences (for a verb occurance) to two different files
+     * @param outputFilename_1
+     * @param outputFilename_2
+     */
     public static void writeSelectedSentences(String outputFilename_1, String outputFilename_2) {
         emptyFile(outputFilename_1);
         emptyFile(outputFilename_2);
@@ -95,7 +103,7 @@ public class WriteProcessedOutput {
             Files.deleteIfExists(Paths.get(filename));
         } catch (IOException e) {
             System.err.println("Cannot access " + filename);
-            System.err.println(e);
+            e.printStackTrace();
             return;
         }
     }
@@ -108,7 +116,7 @@ public class WriteProcessedOutput {
 
         //filenames for writing
         String writeKeys = "processed_output/verb_keys.txt";
-        String writeFullOutput = "processed_output/full_output.txt";
+        String writeFullOutput = "processed_output/full_output.txt"; // too big file, not really necessary
         String writeSelected_1 = "processed_output/selected_1.csv";
         String writeSelected_2 = "processed_output/selected_2.csv";
 

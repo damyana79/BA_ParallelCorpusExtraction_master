@@ -77,8 +77,8 @@ public class VallexGlosbeDictionary {
                         //get en translations
                         String jsonString = lookupVerb(verb);
                         Set<String> translations = getTranslations(jsonString);
-                        if (translations.size() == 0) {
-                        }
+//                        if (translations.size() == 0) {
+//                        }
                         //TODO: do I want to keep both dicts? if not, translation.size - abfrage kommt hier
                         VallexGlosbeVerb entry = new VallexGlosbeVerb(verb, aspect, translations);
                         writeDictionary(entry);

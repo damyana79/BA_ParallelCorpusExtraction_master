@@ -11,8 +11,12 @@ import java.nio.file.StandardOpenOption;
 import java.util.*;
 import java.util.stream.Collectors;
 
-
+/**
+ * processes the <verb: verbdata, sentence occurance> data from all output files from the processed corpus
+ * and builds a dictionary for each verb: <verb : [data, all sentence occurances]>
+ */
 public class OutputVerbDataDictionary {
+
     private static OutputVerbDataDictionary instance;
 
     public static OutputVerbDataDictionary getInstance() {
@@ -55,7 +59,7 @@ public class OutputVerbDataDictionary {
             verb.setAspect(aspect);
             OutputVerbData outputVerbData = new OutputVerbData(verb, fullSentence_en, info_czVerb);
             try {
-                outputVerbData.setSpans();
+                //outputVerbData.setSpans();
             } catch (IndexOutOfBoundsException e) {
                 e.printStackTrace();
                 continue; // TODO: springe ich so zum nächsten verb in der for-Schleife?
@@ -79,21 +83,21 @@ public class OutputVerbDataDictionary {
     }
 
 
-    public static void main(String[] args) throws IOException {
-        String folderName = "output_sentences";
-        OutputVerbDataDictionary outputProcessor = new OutputVerbDataDictionary(folderName);
-
-        //String filename = "test_output_sentences/output.csv";
+// main method not needed; constructor called in write Processed Output
+// public static void main(String[] args) throws IOException {
 //        String folderName = "output_sentences";
-//        List<String> allFileNames = getAllDocumentNames(folderName);
-//        //System.out.println(allFileNames);
+//        OutputVerbDataDictionary outputProcessor = new OutputVerbDataDictionary(folderName);
 //
-//        OutputVerbDataDictionary outputProcessor = new OutputVerbDataDictionary();
-//        for (String filename : allFileNames) {
-//            outputProcessor.buildOutputProcessor(filename);
-//        }
-
-    }
-
+//        //String filename = "test_output_sentences/output.csv";
+////        String folderName = "output_sentences";
+////        List<String> allFileNames = getAllDocumentNames(folderName);
+////        //System.out.println(allFileNames);
+////
+////        OutputVerbDataDictionary outputProcessor = new OutputVerbDataDictionary();
+////        for (String filename : allFileNames) {
+////            outputProcessor.buildOutputProcessor(filename);
+////        }
+//
+//    }
 
 }

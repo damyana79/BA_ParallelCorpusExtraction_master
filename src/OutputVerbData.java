@@ -1,9 +1,12 @@
 
+//TODO: move to OutputVerbDataDictionary
+
+
 public class OutputVerbData {
     Verb verb_en;
     String fullSentence_en;
-    private int spanBegin;
-    private int spanEnd;
+//    private int spanBegin;
+//    private int spanEnd;
 
     String infoStringCzVerb;
 
@@ -14,44 +17,44 @@ public class OutputVerbData {
 
     }
 
-    public void setSpanBegin(int begin) {
-        this.spanBegin = begin;
-    }
-
-    public int getSpanBegin() {
-        return this.spanBegin;
-    }
-
-    public void setSpanEnd(int end) {
-        this.spanEnd = end;
-    }
-
-    public int getSpanEnd() {
-        return this.spanEnd;
-    }
+//    public void setSpanBegin(int begin) {
+//        this.spanBegin = begin;
+//    }
+//
+//    public int getSpanBegin() {
+//        return this.spanBegin;
+//    }
+//
+//    public void setSpanEnd(int end) {
+//        this.spanEnd = end;
+//    }
+//
+//    public int getSpanEnd() {
+//        return this.spanEnd;
+//    }
 
     @Override
     public String toString() {
-        return ">>>" + this.verb_en + ">>" + this.fullSentence_en + " >>" + getSpanBegin() + " - " + getSpanEnd() + "<<<";
+        return this.verb_en + " " + this.fullSentence_en + "\n";
     }
 
     //TODO: deprecated, moved to final processing
-    public void setSpans() {
-        int[] spanInfo;
-        //String verbNotSubstring = " " + this.verb_en.token.trim();
-        int begin = this.fullSentence_en.indexOf(this.verb_en.token); //untrimmed
-        //System.out.println("B " + begin);
-        int end = begin + this.verb_en.token.length() - 1; //untrimmed
-        //System.out.println("E " + end);
-        if ((begin < 0) || (end > fullSentence_en.length())) {
-            System.err.println("begin " + begin + " end " + end + this.verb_en.token);
-            throw new IndexOutOfBoundsException();
-        }
-        //make up for untrimmed verb and untrimmed sentence
-        setSpanBegin(begin);
-        setSpanEnd(end);
-        //System.out.println(">>>>>>>>>>>>>>>>>>>>" + this.verb_en.token + ">>" + this.fullSentence_en.substring(begin, end) + "<<");
-    }
+//    public void setSpans() {
+//        int[] spanInfo;
+//        //String verbNotSubstring = " " + this.verb_en.token.trim();
+//        int begin = this.fullSentence_en.indexOf(this.verb_en.token); //untrimmed
+//        //System.out.println("B " + begin);
+//        int end = begin + this.verb_en.token.length() - 1; //untrimmed
+//        //System.out.println("E " + end);
+//        if ((begin < 0) || (end > fullSentence_en.length())) {
+//            System.err.println("begin " + begin + " end " + end + this.verb_en.token);
+//            throw new IndexOutOfBoundsException();
+//        }
+//        //make up for untrimmed verb and untrimmed sentence
+//        setSpanBegin(begin);
+//        setSpanEnd(end);
+//        //System.out.println(">>>>>>>>>>>>>>>>>>>>" + this.verb_en.token + ">>" + this.fullSentence_en.substring(begin, end) + "<<");
+//    }
 
 
 //    public  static void main(String[] args) {

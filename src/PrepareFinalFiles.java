@@ -11,12 +11,16 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.nio.file.StandardOpenOption;
 import java.util.*;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 import java.util.stream.Collectors;
 
+/**
+ * read .csv file -> write .txt and .json
+ */
 public class PrepareFinalFiles {
-    // read .csv file -> write .txt and .json
-    String outputFolder;
-    String inputFile;
+    private String outputFolder;
+    private String inputFile;
 
     //TODO: für input auch Folder
     PrepareFinalFiles(String inputFile, String outputFolder) {
@@ -24,90 +28,52 @@ public class PrepareFinalFiles {
         this.inputFile = inputFile;
     }
 
-    private static int documentCounts = 1;
+    private int documentCounts = 1;
+    private String documentBareName;
 
-    public static void raiseDocumentCounts() {
-        documentCounts += 1;
-    }
+    private static final int MAX_LINES = 200;
+    private int lineCounts;
 
-    public static int getDocumentCounts() {
-        return documentCounts;
-    }
-
-    private static String documentBareName;
-
-    public static void setDocumentBareName(String name) {
-        documentBareName = name;
-    }
-
-    public static String getDocumentBareName() {
-        return documentBareName;
-    }
-
-    public static final int MAX_LINES = 200;
-    private static int lineCounts;
-
-    public static void resetLineCounts() {
-        lineCounts = 0;
-    }
-
-    public static void raiseLineCounts() {
+    private void raiseLineCounts() {
         lineCounts += 1;
     }
 
-    private static int jsonCharCounter = 0;
+    private int jsonCharCounter = 0;
 
-    public static void updateJsonCharCounter(int countPreviousLine) {
+    private void updateJsonCharCounter(int countPreviousLine) {
         jsonCharCounter += countPreviousLine;
     }
 
-    public static int getJsonCharCounter() {
-        return jsonCharCounter;
-    }
-
-    public static void resetJsonCharCounter() {
+    private void startNewDocument() {
         jsonCharCounter = 0;
+        lineCounts = 0;
+        documentCounts += 1;
     }
 
-
-    public void readAndWriteFile() {
+    /**
+     * reads .csv from processed_output and writes txt and json
+     */
+    private void readAndWriteFile() {
         emptyFiles(this.outputFolder);
 
         Path path = Paths.get(this.inputFile);
 
         String bareFile = path.getFileName().toString();
         String bareName = bareFile.substring(0, bareFile.indexOf("."));
-        setDocumentBareName(bareName);
+        documentBareName = bareName;
 
         try (BufferedReader bufferedReader = Files.newBufferedReader(path);
              CSVReader csvReader = new CSVReader(bufferedReader)) {
             String[] nextLine;
-            OutputStream out;
 
             List<List<Integer>> jsonSpans = new ArrayList<>();
             while ((nextLine = csvReader.readNext()) != null) {
-                if (nextLine.length <= 1) {
-                    break;
-                }
+
                 String verbToken = nextLine[1].trim();
                 String fullSentence = nextLine[3].trim();
 
                 String outputFile = getOutputName();
 
-                if (lineCounts < MAX_LINES) {
-                    raiseLineCounts();
-                } else {
-                    //write json file
-                    //System.out.println(getOutputName() + " " + jsonSpans);
-                    writeJson(getOutputName(), jsonSpans);
-                    jsonSpans = new ArrayList<>();
-                    resetJsonCharCounter();
-
-                    raiseDocumentCounts(); // also renames the files
-                    resetLineCounts();
-                }
-
-                //TODO: add json dingsi
                 //append json list with the jsonCharCounter for the previous line
                 List<Integer> span = Arrays.asList(getSpan(verbToken, fullSentence));
                 jsonSpans.add(span);
@@ -115,36 +81,63 @@ public class PrepareFinalFiles {
                 //also updates jsonCharCounter
                 writeSentence(outputFile, fullSentence);
 
+                if (lineCounts < MAX_LINES) {
+                    raiseLineCounts();
+                } else {
+                    //write json file and start a new document
+                    writeJson(getOutputName(), jsonSpans);
+                    jsonSpans = new ArrayList<>();
+                    startNewDocument();
+                }
             }
+
+            if (!jsonSpans.isEmpty())
+                writeJson(getOutputName(), jsonSpans);
 
         } catch (IOException e) {
             System.err.println("Error reading file " + inputFile);
             e.printStackTrace();
-
         }
     }
 
-    public Integer[] getSpan(String verb, String sentence) {
-        int begin = sentence.indexOf(verb);
-        int end = begin + verb.length() - 1;
+    /**
+     * finds the begin and end index of a verb in a sentence
+     *
+     * @param verb
+     * @param sentence
+     * @return
+     */
+    private Integer[] getSpan(String verb, String sentence) {
+        String temp = String.format("\\b%s\\b", verb);
+        Pattern p = Pattern.compile(temp);
+        Matcher m = p.matcher(sentence);
+        int begin = -2;
+        int end = -1;
+        if (m.find() == true) {
+            begin = m.start();
+            end = m.end();
+        }
+
         if ((begin < 0) || (end > sentence.length())) {
             System.err.println("The chosen spans do not match.");
             System.err.println("begin " + begin + " end " + end + " " + verb + " " + sentence);
             throw new IndexOutOfBoundsException();
         }
-        //System.out.println(getOutputName());
-        //System.out.println(">>>>>>>" + begin + "-" + end + " " + verb + " " + sentence + "<<< " + sentence.length());
-        Integer[] spanInfo = new Integer[]{begin + getJsonCharCounter(), end + getJsonCharCounter()};
-        //System.out.println(Arrays.toString(spanInfo) + " " + verb + " " + sentence + "\n");
-        return spanInfo;
+
+        return new Integer[]{begin + jsonCharCounter, end + jsonCharCounter};
     }
 
-    public String getOutputName() {
-        String newName = this.outputFolder + "/" + getDocumentBareName() + "_" + String.valueOf(getDocumentCounts());
-        return newName;
+    private String getOutputName() {
+        return this.outputFolder + "/" + documentBareName + "_" + String.valueOf(documentCounts);
     }
 
-    public static void writeSentence(String outputFileName, String sentence) {
+    /**
+     * writes a line/sentence to a txt file
+     *
+     * @param outputFileName
+     * @param sentence
+     */
+    private void writeSentence(String outputFileName, String sentence) {
         String outputFile = outputFileName + ".txt";
         Path path = Paths.get(outputFile);
         try (BufferedWriter writer = Files.newBufferedWriter(path,
@@ -162,8 +155,13 @@ public class PrepareFinalFiles {
         }
     }
 
-
-    public static void writeJson(String outputFileName, List<List<Integer>> spanInfo) {
+    /**
+     * writes a complete json file
+     *
+     * @param outputFileName
+     * @param spanInfo       - list with spans for the whole document
+     */
+    private static void writeJson(String outputFileName, List<List<Integer>> spanInfo) {
         String outputFile = outputFileName + ".json";
         try (JsonWriter writer = new JsonWriter(new FileWriter(outputFile))) {
             writer.beginObject();
@@ -189,17 +187,16 @@ public class PrepareFinalFiles {
 
     }
 
-    public static void emptyFile(String filename) {
+    private static void emptyFile(String filename) {
         try {
             Files.deleteIfExists(Paths.get(filename));
         } catch (IOException e) {
             System.err.println("Cannot access " + filename);
-            System.err.println(e);
-            return;
+            e.printStackTrace();
         }
     }
 
-    public static void emptyFiles(String folderName) {
+    private static void emptyFiles(String folderName) {
         try {
             List<String> outputFileNames = Files.walk(Paths.get(folderName))
                     .filter(Files::isRegularFile).map(Path::toString)
@@ -218,7 +215,6 @@ public class PrepareFinalFiles {
     public static void main(String[] args) {
         String inputFile_1 = "processed_output/selected_1.csv";
         String finalFilesFolder = "final_files";
-        // final_files/selected_1_1.txt
 
         PrepareFinalFiles finalFilesProcessor = new PrepareFinalFiles(inputFile_1, finalFilesFolder);
         finalFilesProcessor.readAndWriteFile();
