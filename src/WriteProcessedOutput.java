@@ -1,14 +1,16 @@
 import com.opencsv.CSVWriter;
 
 import java.io.BufferedWriter;
-import java.io.FileWriter;
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.nio.file.StandardOpenOption;
-import java.util.*;
+import java.util.Arrays;
+import java.util.List;
+import java.util.Map;
+import java.util.Set;
 
 
 /**
@@ -18,6 +20,7 @@ public class WriteProcessedOutput {
 
     /**
      * writes 2 selected sentences (for a verb occurance) to two different files
+     *
      * @param outputFilename_1
      * @param outputFilename_2
      */
@@ -45,7 +48,8 @@ public class WriteProcessedOutput {
                     Verb firstOutputVerb = firstOutput.verb_en;
                     String[] verbData = new String[]{firstOutputVerb.infinitiv, firstOutputVerb.token, firstOutputVerb.aspect, firstOutput.fullSentence_en};
                     writer_1.writeNext(verbData);
-                } if (outputList.size() > 1) {
+                }
+                if (outputList.size() > 1) {
                     OutputVerbData secondOutput = outputList.get(1);
                     Verb secondOutputVerb = secondOutput.verb_en;
                     String[] verbData = new String[]{secondOutputVerb.infinitiv, secondOutputVerb.token, secondOutputVerb.aspect, secondOutput.fullSentence_en};
@@ -111,18 +115,19 @@ public class WriteProcessedOutput {
 
     public static void main(String[] args) throws IOException {
         //dictionary with verbs and translations
-        String dictFolder = "output_sentences";
+        String dictFolder = "output_bigCorpus";
+        String oldVerbs = "processed_output/Verb_keys.txt";
         OutputVerbDataDictionary outputProcessor = new OutputVerbDataDictionary(dictFolder);
 
         //filenames for writing
-        String writeKeys = "processed_output/verb_keys.txt";
-        String writeFullOutput = "processed_output/full_output.txt"; // too big file, not really necessary
-        String writeSelected_1 = "processed_output/selected_1.csv";
-        String writeSelected_2 = "processed_output/selected_2.csv";
+        String writeKeys = "processed_output_big/verb_keys.txt";
+        //String writeFullOutput = "processed_output_big/full_output.txt"; // too big file, not really necessary
+        String writeSelected_1 = "processed_output_big/selected_3.csv";
+        String writeSelected_2 = "processed_output_big/selected_4.csv";
 
         //object
         WriteProcessedOutput processedOutput = new WriteProcessedOutput();
-        //writeVerbKeys(writeKeys);
+        writeVerbKeys(writeKeys);
         writeSelectedSentences(writeSelected_1, writeSelected_2);
 
 

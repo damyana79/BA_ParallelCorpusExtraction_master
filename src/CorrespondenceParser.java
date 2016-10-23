@@ -1,12 +1,15 @@
-import com.sun.xml.internal.bind.v2.TODO;
 import org.dom4j.Document;
 import org.dom4j.DocumentException;
+import org.dom4j.Element;
 import org.dom4j.Node;
 import org.dom4j.io.SAXReader;
 
 import java.io.File;
 import java.io.IOException;
-import java.util.*;
+import java.util.ArrayList;
+import java.util.InputMismatchException;
+import java.util.Iterator;
+import java.util.List;
 
 
 /**
@@ -16,24 +19,27 @@ import java.util.*;
 public class CorrespondenceParser {
     private List<List<Integer>> correspondingIDs = new ArrayList<>();
 
-    CorrespondenceParser(String filename) throws IOException {
+    CorrespondenceParser(String filename) throws IOException, DocumentException {
         File inputFile = new File(filename);
         SAXReader reader = new SAXReader();
 
-        try {
-            Document document = reader.read(inputFile);
+        Document document = reader.read(inputFile);
 
-            List<Node> nodes = document.selectNodes("linkGrp/link");
-            if (nodes.isEmpty()) {
-                System.err.println("The document does not correspond to the required format.");
-                throw new InputMismatchException();
-            }
-            for (Node node : nodes) {
-                String twoSentences = node.valueOf("@xtargets");
-                String correspondence = node.valueOf("@type");
+        Element root = document.getRootElement();
 
+        for (Iterator<Element> it1 = root.elementIterator("link"); it1.hasNext(); ) {
+            Node node = it1.next();
+
+            String twoSentences = node.valueOf("@xtargets");
+            String correspondence = node.valueOf("@type");
+
+            try {
                 if (correspondence.equals("1-1")) {
                     String[] two = twoSentences.split(";");
+                    if (two.length != 2) {
+                        throw new IllegalArgumentException("incorrectly formated input in " + twoSentences);
+                    }
+
                     // list of 2 corresponding id sentences
                     List<Integer> ids = new ArrayList<>();
                     for (String el : two) {
@@ -43,9 +49,10 @@ public class CorrespondenceParser {
                     }
                     this.correspondingIDs.add(ids);
                 }
+            } catch (Exception e) {
+                // ignoring badly formatted input
+                e.printStackTrace();
             }
-        } catch (DocumentException e) {
-            e.printStackTrace();
         }
     }
 

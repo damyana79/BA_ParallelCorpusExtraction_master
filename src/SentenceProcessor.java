@@ -1,17 +1,18 @@
 import org.dom4j.DocumentException;
 
 import java.io.IOException;
-import java.util.*;
+import java.util.ArrayList;
+import java.util.List;
 
 
-public class SentenceParser {
+public class SentenceProcessor {
     List<SentencePair> sentencePairs = new ArrayList<SentencePair>();
     CorrespondenceParser correspondenceParser;
     CorpusParser corpusParser_en;
     CorpusParser corpusParser_cs;
 
 
-    SentenceParser(String filename_en2cs, String filename_en, String filename_cs) throws DocumentException, IOException {
+    SentenceProcessor(String filename_en2cs, String filename_en, String filename_cs) throws DocumentException, IOException {
         this.correspondenceParser = new CorrespondenceParser(filename_en2cs);
         this.corpusParser_en = new CorpusParser(filename_en);
         this.corpusParser_cs = new CorpusParser(filename_cs);

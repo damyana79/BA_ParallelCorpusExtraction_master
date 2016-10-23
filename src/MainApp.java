@@ -68,7 +68,7 @@ public class MainApp {
 //            for (String filename : written_files) {
 //                System.out.println(this.output_sentences + "/" + filename);
 //            }
-            SentenceParser sentenceParser = new SentenceParser(filename_en2cs, filename_en, filename_cs);
+            SentenceProcessor sentenceParser = new SentenceProcessor(filename_en2cs, filename_en, filename_cs);
             emptyFile(output_filename);
             sentenceParser.getSentencePairs(output_filename);
         }

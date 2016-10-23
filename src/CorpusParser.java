@@ -1,5 +1,6 @@
 import org.dom4j.Document;
 import org.dom4j.DocumentException;
+import org.dom4j.Element;
 import org.dom4j.Node;
 import org.dom4j.io.SAXReader;
 
@@ -21,21 +22,27 @@ public class CorpusParser {
         SAXReader reader = new SAXReader();
         Document document = reader.read(inputFile);
 
-        List<Node> bookFile = document.selectNodes("doc/div/p/block/s");
-        if (bookFile.isEmpty()) {
-            System.err.println("The file does not contain a book in the required format.");
-            throw new InputMismatchException();
+        Element root = document.getRootElement();
+
+        for (Iterator<Element> it1 = root.elementIterator("div"); it1.hasNext(); ) {
+            for (Iterator<Element> it2 = it1.next().elementIterator("p"); it2.hasNext(); ) {
+                for (Iterator<Element> it3 = it2.next().elementIterator("block"); it3.hasNext(); ) {
+                    for (Iterator<Node> it4 = it3.next().elementIterator("s"); it4.hasNext(); ) {
+                        Node s = it4.next();
+
+                        String definition = s.valueOf("@id");
+                        String temp = definition.substring(definition.lastIndexOf(":") + 1);
+                        int sentenceId = Integer.parseInt(temp);
+                        String sentence = s.getText();
+                        //speichert nur rawSentence in der Map
+                        this.bookSentences.put(sentenceId, sentence);
+
+                    }
+                }
+            }
         }
-        for (Node s : bookFile) {
-            String definition = s.valueOf("@id");
-            String temp = definition.substring(definition.lastIndexOf(":") + 1);
-            int sentenceId = Integer.parseInt(temp);
-            String sentence = s.getText();
-            //speichert nur rawSentence in der Map
-            this.bookSentences.put(sentenceId, sentence);
-        }
-        //System.out.println(this.bookSentences);
     }
+
 
     public Map<Integer, String> getCorpusData() {
         return this.bookSentences;

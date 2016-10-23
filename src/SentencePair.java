@@ -2,7 +2,6 @@ import com.opencsv.CSVWriter;
 
 import java.io.FileWriter;
 import java.io.IOException;
-import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
@@ -78,16 +77,15 @@ public class SentencePair {
 
     //expanded with lookups for reflexives
     public VallexGlosbeVerb lookupVerb(String infinitiv) {
-        VallexGlosbeVerb czDictVerb = VallexGlosbeDictionary.getInstance().get(infinitiv);
+        VallexGlosbeDictionary dict = VallexGlosbeDictionary.getInstance();
+        VallexGlosbeVerb czDictVerb = dict.get(infinitiv);
         if (czDictVerb == null) {
             if (isMaybeReflexive()) {
                 String reflexiveInfinitiv = infinitiv + " " + "se";
-                czDictVerb = VallexGlosbeDictionary.getInstance().get(reflexiveInfinitiv);
-            } else {
-                if (isMaybeReflexiveDative()) {
-                    String reflexiveInfinitivDativ = infinitiv + " " + "si";
-                    czDictVerb = VallexGlosbeDictionary.getInstance().get(reflexiveInfinitivDativ);
-                }
+                czDictVerb = dict.get(reflexiveInfinitiv);
+            } else if (isMaybeReflexiveDative()) {
+                String reflexiveInfinitivDativ = infinitiv + " " + "si";
+                czDictVerb = dict.get(reflexiveInfinitivDativ);
             }
         }
         return czDictVerb;
@@ -98,7 +96,8 @@ public class SentencePair {
         return this.czech.fullSentence.contains(" se ");
     }
 
-    public boolean isMaybeReflexiveDative() { return this.czech.fullSentence.contains(" si ");}
-
+    public boolean isMaybeReflexiveDative() {
+        return this.czech.fullSentence.contains(" si ");
+    }
 
 }
