@@ -5,6 +5,8 @@
 /test_output_sentences
 
 /output_sentences
+/output_bigCorpus
+/processed_output_big
 
 /processed_output/full_output.txt
 
