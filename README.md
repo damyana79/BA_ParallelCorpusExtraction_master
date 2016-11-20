@@ -6,13 +6,13 @@
 	intercorp_cs
 
 ### A1. Intercorp files: broken down into smaller files, so that one file corresponds to just one book/named collection. 
-··a. The output files from the books (151), which were used in the corpus extraction are in:
+ a. The output files from the books (151), which were used in the corpus extraction are in:
 
 correspondences_intercorp_en2cs
 intercorp_cs
 intercorp_en
 
-··b. big Corpus:
+ b. big Corpus:
 
 Some of the named collections _ACQUIS, _EUROPARL, _PRESSEUROP, _SUBTITLES, _SYNDICATE 
 were too big to be processed on my computer (8GB and 12GB working memory were not enough) and were processed on a later stage. 
@@ -37,8 +37,8 @@ The files from the "big Corpus" were manually extracted; formatting mistakes in 
 Class containing methods that create a VallexGlosbeDictionary by looking up czech Vallex Verbs in Glosbe and finding List of english translations
 Once created, an instance of the VallexGlosbeDictionary can be used for further processing.
 
-..* input: "vallex\\vallex_aspectOutput.txt"
-..* output: "vallex/dictionary.csv" -> czech verbs with aspect value and englisch translations
+ * input: "vallex\\vallex_aspectOutput.txt"
+ * output: "vallex/dictionary.csv" -> czech verbs with aspect value and englisch translations
 
 The dictionary has 4221 entries (after removing 2 aspectual values and homographs from vallex);
 of these only 2915 have a matching translation
@@ -67,17 +67,17 @@ Checks verb correspondences (if the GlosbeVallexDictionary translation of a verb
 
 - **Mainapp**:
 
-··1. instantiates a **VallexGlosbeDictionary**
-..* input: vallex/dictionary.csv
+ 1. instantiates a **VallexGlosbeDictionary**
+ * input: vallex/dictionary.csv
 
-··2. initializes instance of **SentenceProcessor**
+ 2. initializes instance of **SentenceProcessor**
 
 inside it instantiates a corpus parser and a correspondence parser
 processes corpora and writes corresponding sentence pairs: sentenceProcessor.getSentencePairs(output_filename) and writes files in output_sentences
 
-..* input: correspondences_intercorp_en2cs, intercorp_en, intercorp_cs
+ * input: correspondences_intercorp_en2cs, intercorp_en, intercorp_cs
 
-..* output: output_sentences -> collection of sentence pairs, a file per book, a sentence pair per verb
+ * output: output_sentences -> collection of sentence pairs, a file per book, a sentence pair per verb
 of the form:
 
 token_en, inf_en, token_cs, inf_cs, aspect, English sentence, Czech sentence
@@ -97,8 +97,8 @@ and builds a dictionary for each verb: <verb : [data, all sentence occurances]>
 Initializes OutputVerbDataDictionary;
 uses instance of OutputVerbDataDictionary to select for each verb occuring in the corpus data the first two(in this case) sentences of occurrence
 
-..* input: folder with processed output files
-..* output: in folder processed_output: 
+ * input: folder with processed output files
+ * output: in folder processed_output: 
 
 selected_1.csv (2774 verbs/sentences), selected_2.csv (2374) -> first sentence (first sentence value for each verb key in the OutputVerbDataDictionary) - used for the annotation, second sentence(-"-) - additional sentences, not used further
 
@@ -113,5 +113,5 @@ verb_keys_occurrenceNumber.txt -> verb - #occurrences
 
 Reads selected_n.csv file (in processed_output) -> write .txt and .json; writes only 200 sentences per .txt (better processing for the annotation tool)
 
-..* input: in folder processed input
-..* output: in folder final_files
+ * input: in folder processed input
+ * output: in folder final_files
