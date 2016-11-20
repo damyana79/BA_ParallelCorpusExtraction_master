@@ -68,6 +68,7 @@ Checks verb correspondences (if the GlosbeVallexDictionary translation of a verb
 - **Mainapp**:
 
 1. instantiates a **VallexGlosbeDictionary**
+
 	* input: vallex/dictionary.csv
 
 2. initializes instance of **SentenceProcessor**
