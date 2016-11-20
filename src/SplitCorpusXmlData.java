@@ -7,9 +7,15 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.nio.file.StandardOpenOption;
 
+/**
+ * The class is used to split the files with the actual texts - intercorp_en and intercorp_cs into smaller files containing just one book
+ */
 public class SplitCorpusXmlData {
 
-
+    /**
+     * @param inputFilename: correct path to intercorp_cs.xml/intercorp_en
+     * @param folderName:    output folder ->  intercorp_cs/intercorp_en
+     */
     public static void readAndSplit(String inputFilename, String folderName) {
         Path path = Paths.get(inputFilename);
         try (BufferedReader reader = Files.newBufferedReader(path)) {

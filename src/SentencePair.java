@@ -8,11 +8,19 @@ import java.util.Set;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
+/**
+ * SentencePair contains a Pair of the class Sentence: one czech and a corresponding english sentence
+ */
 public class SentencePair {
     Sentence english;
     Sentence czech;
     String outputFile;
 
+    /**
+     * @param english
+     * @param czech
+     * @param outputFile
+     */
     SentencePair(Sentence english, Sentence czech, String outputFile) {
         this.english = english;
         this.czech = czech;
@@ -75,7 +83,13 @@ public class SentencePair {
         }
     }
 
-    //expanded with lookups for reflexives
+
+    /**
+     * Looks up the verb in the VallexGlosbeDictionary; expanded with lookups for reflexives (Accusative and Dative)
+     *
+     * @param infinitiv
+     * @return
+     */
     public VallexGlosbeVerb lookupVerb(String infinitiv) {
         VallexGlosbeDictionary dict = VallexGlosbeDictionary.getInstance();
         VallexGlosbeVerb czDictVerb = dict.get(infinitiv);

@@ -1,9 +1,16 @@
-
+/**
+ * the Verb class : token, infinitiv, aspect
+ */
 public class Verb {
     String token;
     String infinitiv;
     String aspect;
 
+    /**
+     *
+     * @param token
+     * @param infinitiv
+     */
     Verb(String token, String infinitiv) {
         this.token = token;
         this.infinitiv = infinitiv;
@@ -18,13 +25,5 @@ public class Verb {
     public String toString() {
         return this.token + " " + this.infinitiv + " " + this.aspect;
     }
-
-    /*
-    public static void main(String[] args) {
-        Verb test = new Verb("eat", "perfective");
-        System.out.println(test);
-
-    }
-    */
 
 }

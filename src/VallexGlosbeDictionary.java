@@ -13,12 +13,19 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.*;
 
-
+/**
+ * Container Class
+ */
 class VallexGlosbeVerb {
     String czVerb;
     String aspect;
     Set<String> enTranslations;
 
+    /**
+     * @param czVerb
+     * @param aspect
+     * @param enTranslations
+     */
     VallexGlosbeVerb(String czVerb, String aspect, Set<String> enTranslations) {
         this.czVerb = czVerb;
         this.aspect = aspect;
@@ -33,6 +40,10 @@ class VallexGlosbeVerb {
     }
 }
 
+/**
+ * Class containing methods that create a VallexGlosbeDictionary by looking up czech Vallex Verbs in Glosbe and finding List of english translations
+ * Once created, an instance of the VallexGlosbeDictionary can be used for further processing.
+ */
 public class VallexGlosbeDictionary {
 
     private static VallexGlosbeDictionary instance;
@@ -49,12 +60,26 @@ public class VallexGlosbeDictionary {
     Map<String, VallexGlosbeVerb> vallexGlosbeDictionary;
     String dictFilename;
 
+
+    /**
+     * @param dictFilename: output file -> vallex/dictionary.csv
+     * @throws IOException
+     */
     VallexGlosbeDictionary(String dictFilename) throws IOException {
         vallexGlosbeDictionary = readDictionary(dictFilename);
         this.dictFilename = dictFilename;
         instance = this;
     }
 
+    /**
+     * Iterates through the Vallex verbs collection, looks a verb up in Glosbe
+     * (only these which have aspect value "perf" or "imperf" and don't have homographs)
+     * and writes its translations
+     * @param inputFilename: vallex verbs -> vallex\vallex_aspectOutput.txt
+     * @return
+     * @throws IOException
+     * @throws InterruptedException
+     */
     public Map<String, VallexGlosbeVerb> queryEntries(String inputFilename) throws IOException, InterruptedException {
         Path path = Paths.get(inputFilename);
         try (BufferedReader reader = Files.newBufferedReader(path)) {
@@ -68,7 +93,7 @@ public class VallexGlosbeDictionary {
                     continue;
 
                 if (aspect.equals("pf") || aspect.equals("impf")) {
-                    //TODO: for now the homographs (marked in VALLEX with a digit as a last character get disregarded)
+                    //for now the homographs (marked in VALLEX with a digit as a last character get disregarded)
                     // as their perfectivity value may be different and their meanings too
                     String[] ve = verb.split(" ");
                     boolean condition = Character.isDigit(ve[0].charAt(ve[0].length() - 1)); //checks for homographs
@@ -89,6 +114,12 @@ public class VallexGlosbeDictionary {
         return vallexGlosbeDictionary;
     }
 
+    /**
+     * Loads an instance of the already ready VallexGlosbeDictionary
+     * @param filename : vallexGlosbeDictionary -> vallex/dictionary.csv
+     * @return
+     * @throws IOException
+     */
     static Map<String, VallexGlosbeVerb> readDictionary(String filename) throws IOException {
         Map<String, VallexGlosbeVerb> dictionary = new HashMap<>();
         CSVReader reader = new CSVReader(new FileReader(filename), ',', '"');
@@ -98,8 +129,8 @@ public class VallexGlosbeDictionary {
             String verb = nextLine[0];
             String aspect = nextLine[1];
             String translationString = nextLine[2];
-            Set<String> rawTranslations = new HashSet<>(Arrays.asList((translationString.substring(1, translationString.length()-1)).split(",")));
-            Set<String> translations= new HashSet<>();
+            Set<String> rawTranslations = new HashSet<>(Arrays.asList((translationString.substring(1, translationString.length() - 1)).split(",")));
+            Set<String> translations = new HashSet<>();
             for (String translation : rawTranslations) {
                 translations.add(translation.trim());
             }
@@ -109,7 +140,13 @@ public class VallexGlosbeDictionary {
         return dictionary;
     }
 
-
+    /**
+     * Looks up the czech verbs in Glosbe
+     * @param verb
+     * @return jsonString
+     * @throws IOException
+     * @throws InterruptedException
+     */
     public static String lookupVerb(String verb) throws
             IOException, InterruptedException {
         //TODO: proper way to deal with exceptions?
@@ -137,7 +174,14 @@ public class VallexGlosbeDictionary {
         return jsonString;
     }
 
-    //TODO: Annahme: jsonString kann nicht null sein, nur "tuc": [] kann leer sein
+
+
+    /**
+     * Extracts the translations from the Glosbe jsonString
+     * @param jsonString
+     * @return
+     */
+    //jsonString kann nicht null sein, nur "tuc": [] kann leer sein
     public static Set<String> getTranslations(String jsonString) {
         Set<String> translations = new HashSet<>();
         JsonObject jsonObject = new JsonParser().parse(jsonString).getAsJsonObject();

@@ -10,8 +10,9 @@ import java.util.Set;
 import java.util.stream.Collectors;
 
 /**
- * iterates over all english and czech corpus files, creates a Corpus parser for each file and gets and writes
- * SentencePair one by one to a file
+ * Iterates over all english and czech corpus files, creates a Corpus parser for each file and gets and writes
+ * SentencePair one by one to a file; one file per book
+ * output: output_sentences <- files with sentence pairs
  */
 public class MainApp {
     String intercorp_en2cs;
@@ -26,6 +27,12 @@ public class MainApp {
         this.output_sentences = output_sentences;
     }
 
+    /**
+     * Find the intersection of all file/book names in intercorp_en, intercorp_cs and correspondences_intercorp_en2cs
+     *
+     * @return
+     * @throws IOException
+     */
     public List<String> getAllDocumentNames() throws IOException {
         Set<String> intersect_en2cs = Files.walk(Paths.get(this.intercorp_en2cs))
                 .filter(Files::isRegularFile)
@@ -48,6 +55,14 @@ public class MainApp {
 
     }
 
+    /**
+     * Initializes SentenceProcessor(filename_en2cs, filename_en, filename_cs)
+     * calls: sentenceProcessor.getSentencePairs(output_filename) and writes sentencePairs to files in output_sentences
+     *
+     * @param allFileNames (intersection of all 3 input file collections)
+     * @throws IOException
+     * @throws DocumentException
+     */
     public void parseAllDocuments(List<String> allFileNames) throws IOException, DocumentException {
         //TODO: written Files does not have a function now; can be used to add new files and skip changes in old ones
         Set<String> written_files = Files.walk(Paths.get(this.output_sentences))
@@ -68,9 +83,9 @@ public class MainApp {
 //            for (String filename : written_files) {
 //                System.out.println(this.output_sentences + "/" + filename);
 //            }
-            SentenceProcessor sentenceParser = new SentenceProcessor(filename_en2cs, filename_en, filename_cs);
+            SentenceProcessor sentenceProcessor = new SentenceProcessor(filename_en2cs, filename_en, filename_cs);
             emptyFile(output_filename);
-            sentenceParser.getSentencePairs(output_filename);
+            sentenceProcessor.getSentencePairs(output_filename);
         }
     }
 
@@ -96,6 +111,7 @@ public class MainApp {
 
         MainApp mainApp = new MainApp(intercorp_en2cs, intercorp_en, intercorp_cs, output_sentences);
         List<String> allDocumentNames = mainApp.getAllDocumentNames();
+        //initialize sentenceProcessor
         mainApp.parseAllDocuments(allDocumentNames);
 
     }

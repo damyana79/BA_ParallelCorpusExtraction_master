@@ -18,13 +18,19 @@ import java.util.regex.Pattern;
 import java.util.stream.Collectors;
 
 /**
- * read .csv file -> write .txt and .json
+ * Reads selected_n.csv file (in processed_output) -> write .txt and .json
  */
 public class PrepareFinalFiles {
     private String outputFolder;
     private String inputFile;
 
     //TODO: für input auch Folder
+
+    /**
+     *
+     * @param inputFile: from processed_output folder
+     * @param outputFolder: to final_files
+     */
     PrepareFinalFiles(String inputFile, String outputFolder) {
         this.outputFolder = outputFolder;
         this.inputFile = inputFile;

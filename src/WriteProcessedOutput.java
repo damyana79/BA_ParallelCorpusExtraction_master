@@ -64,17 +64,25 @@ public class WriteProcessedOutput {
 
     }
 
-    public static void writeVerbKeys(String verbKeyFilename) {
+    public static void writeVerbKeys(String verbKeyFilename, String verbKeyOccurrenceNumberFilename) {
         emptyFile(verbKeyFilename);
+        emptyFile(verbKeyOccurrenceNumberFilename);
         Map<String, List<OutputVerbData>> outputVerbDataDictionary = OutputVerbDataDictionary.getInstance().outputVerbDataDictionary;
         Set<String> verbKeys = outputVerbDataDictionary.keySet();
         Path path = Paths.get(verbKeyFilename);
+        Path path_2 = Paths.get(verbKeyOccurrenceNumberFilename);
         try (BufferedWriter writer = Files.newBufferedWriter(path,
                 StandardCharsets.UTF_8, StandardOpenOption.CREATE,
-                StandardOpenOption.APPEND, StandardOpenOption.WRITE)) {
+                StandardOpenOption.APPEND, StandardOpenOption.WRITE);
+             BufferedWriter writer_2 = Files.newBufferedWriter(path_2,
+                     StandardCharsets.UTF_8, StandardOpenOption.CREATE,
+                     StandardOpenOption.APPEND, StandardOpenOption.WRITE)
+        ) {
 
             for (String verb : verbKeys) {
                 writer.append(verb + "\n");
+                writer_2.append(verb + " - " + outputVerbDataDictionary.get(verb).size() + "\n");
+
             }
         } catch (IOException e) {
             System.err.println("Error writing file " + path);
@@ -115,20 +123,27 @@ public class WriteProcessedOutput {
 
     public static void main(String[] args) throws IOException {
         //dictionary with verbs and translations
-        String dictFolder = "output_bigCorpus";
-        String oldVerbs = "processed_output/Verb_keys.txt";
+        String dictFolder = "output_sentences";
+        //String dictFolder = "output_bigCorpus";
+        //String oldVerbs = "processed_output/Verb_keys.txt";
         OutputVerbDataDictionary outputProcessor = new OutputVerbDataDictionary(dictFolder);
 
         //filenames for writing
-        String writeKeys = "processed_output_big/verb_keys.txt";
+
+        String writeKeys = "processed_output/verb_keys.txt";
+        String writeKey_occurrenceNumber = "processed_output/verb_keys_occurrenceNumber.txt";
+        //String writeKeys = "processed_output_big/verb_keys.txt";
+        String writeSelected_1 = "processed_output/selected_1.csv";
+        String writeSelected_2 = "processed_output/selected_2.csv";
+
         //String writeFullOutput = "processed_output_big/full_output.txt"; // too big file, not really necessary
-        String writeSelected_1 = "processed_output_big/selected_3.csv";
-        String writeSelected_2 = "processed_output_big/selected_4.csv";
+        //String writeSelected_1 = "processed_output_big/selected_3.csv";
+        //String writeSelected_2 = "processed_output_big/selected_4.csv";
 
         //object
         WriteProcessedOutput processedOutput = new WriteProcessedOutput();
-        writeVerbKeys(writeKeys);
-        writeSelectedSentences(writeSelected_1, writeSelected_2);
+        writeVerbKeys(writeKeys, writeKey_occurrenceNumber);
+        //writeSelectedSentences(writeSelected_1, writeSelected_2);
 
 
     }

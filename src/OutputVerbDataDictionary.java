@@ -9,7 +9,9 @@ import java.nio.file.Paths;
 import java.util.*;
 import java.util.stream.Collectors;
 
-
+/**
+ * Container class
+ */
 class OutputVerbData {
     Verb verb_en;
     String fullSentence_en;
@@ -30,7 +32,7 @@ class OutputVerbData {
 
 
 /**
- * processes the <verb: verbdata, sentence occurance> data from all output files from the processed corpus
+ * Processes the <verb: verbdata, sentence occurance> data from all output files (folder output_sentences) from the processed corpus
  * and builds a dictionary for each verb: <verb : [data, all sentence occurances]>
  */
 public class OutputVerbDataDictionary {
@@ -51,6 +53,10 @@ public class OutputVerbDataDictionary {
 
     public Map<String, List<OutputVerbData>> outputVerbDataDictionary;
 
+    /**
+     * @param folderName : output_sentences
+     * @throws IOException
+     */
     OutputVerbDataDictionary(String folderName) throws IOException {
         //String folderName = "output_sentences";
         instance = this;
@@ -109,7 +115,7 @@ public class OutputVerbDataDictionary {
             }
         }
         //System.out.println(outputVerbDataDictionary);
-        System.out.println(outputVerbDataDictionary.size());
+        //System.out.println(outputVerbDataDictionary.size());
     }
 
     public static List<String> getAllDocumentNames(String outputFolder) throws IOException {
@@ -121,7 +127,7 @@ public class OutputVerbDataDictionary {
 
     /**
      * this method reads from file verbs that were already found in previous dataset
-     * (after the whole verb gathering process has already beeb performd on the smaller data, the bigger data are processed
+     * (after the whole verb gathering process has already been performed on the smaller data, the bigger data are processed
      * for finding additional verbs)
      *
      * @param filename
@@ -144,7 +150,7 @@ public class OutputVerbDataDictionary {
     }
 
 
-    // main method not needed; constructor called in write Processed Output
+    // main method not needed; constructor called in WriteProcessedOutput
 //    public static void main(String[] args) {
 //        String oldVerbsFile = "processed_output/verb_keys.txt";
 //        getOldVerbKeys(oldVerbsFile);

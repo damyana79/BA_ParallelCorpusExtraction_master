@@ -4,7 +4,10 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-
+/**
+ * Initialises a CorrespondenceParser(filename_en2cs) and CorpusParser(filename_en), CorpusParser(filename_cs)
+ * Builds/initializes sentencePair-s
+ */
 public class SentenceProcessor {
     List<SentencePair> sentencePairs = new ArrayList<SentencePair>();
     CorrespondenceParser correspondenceParser;

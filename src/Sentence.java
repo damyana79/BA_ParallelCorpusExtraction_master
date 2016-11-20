@@ -2,31 +2,35 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+/**
+ * Sentence: full sentence, list of the verbs contained in the sentence
+ */
 public class Sentence {
     String fullSentence;
     //infinitives
     List<Verb> verbs;
 
+    /**
+     * @param fullSentence
+     * @param verbs
+     */
     Sentence(String fullSentence, List<Verb> verbs) {
         this.fullSentence = fullSentence;
         this.verbs = verbs;
     }
 
-    //TODO: dummy values; implement correctly!
-//    private void getVerbs(String fullSentence) {
-//        Verb ve = new Verb("placeholder", "no");
-//        this.verbs.add(ve);
-//    }
 
     @Override
     public String toString() {
         return this.fullSentence + "\nverbs: " + this.verbs.toString();
     }
 
-    //    public static void main(String[] args) {
-//        List<String> test = new ArrayList<String>(Arrays.asList("abc", "xyz"));
-//        System.out.println(test);
-//    }
+    /**
+     * Builds a sentence from a collected sentence list
+     *
+     * @param sentenceList
+     * @return
+     */
     public static String formatSentence(List<String> sentenceList) {
         StringBuilder sentence = new StringBuilder();
         ArrayList<String> punctuation = new ArrayList<String>(Arrays.asList(",", ".", "!", "?", ";"));

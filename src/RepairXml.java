@@ -7,7 +7,14 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.nio.file.StandardOpenOption;
 
+/**
+ * The class splits the intercorp correspondence file intercorp_en2cs into smaller files, containing just one book/named collection
+ */
 public class RepairXml {
+    /**
+     * @param inputFilename : path of intercorp_en2cs.xml
+     * @param folderName    : output folder for the split files -> correspondences_intercorp_en2cs
+     */
 
 
     public static void readAndSplit(String inputFilename, String folderName) {
@@ -63,6 +70,7 @@ public class RepairXml {
 
     public static void main(String[] args) {
         //String filename_en2cs = "test/test_en2cs.xml";
+        //TODO: on different workspace insert correct path for intercorp_en2cs.xml
         String filename_en2cs = "C:/Users/Dana/en2cs/intercorp_en2cs.xml";
         String folderName = "../correspondences_intercorp_en2cs";
         readAndSplit(filename_en2cs, folderName);
