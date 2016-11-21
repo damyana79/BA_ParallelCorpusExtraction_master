@@ -101,12 +101,12 @@ public class OutputVerbDataDictionary {
             Verb verb = new Verb(token_en, infinitive_en);
             verb.setAspect(aspect);
             OutputVerbData outputVerbData = new OutputVerbData(verb, fullSentence_en, info_czVerb);
-            try {
-                //outputVerbData.setSpans();
-            } catch (IndexOutOfBoundsException e) {
-                e.printStackTrace();
-                continue; // TODO: springe ich so zum nächsten verb in der for-Schleife?
-            }
+//            try {
+//                //outputVerbData.setSpans();
+//            } catch (IndexOutOfBoundsException e) {
+//                e.printStackTrace();
+//                continue; // TODO: springe ich so zum nächsten verb in der for-Schleife?
+//            }
 
             if (outputVerbDataDictionary.containsKey(infinitive_en)) {
                 outputVerbDataDictionary.get(infinitive_en).add(outputVerbData);
