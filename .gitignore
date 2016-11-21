@@ -4,7 +4,7 @@
 /test
 /test_output_sentences
 
-/output_sentences
+# /output_sentences
 /output_bigCorpus
 /processed_output_big
 
