@@ -98,8 +98,8 @@ and builds a dictionary for each verb: <verb : [data, all sentence occurances]>
 Initializes OutputVerbDataDictionary;
 uses instance of OutputVerbDataDictionary to select for each verb occuring in the corpus data the first two(in this case) sentences of occurrence
 
-	* input: folder with processed output files
-	* output: in folder processed_output: 
+	* input: folder output_sentences 
+	* output: in folder processed_output: selected_1.csv and selected_2.csv
 
 selected_1.csv (2774 verbs/sentences), selected_2.csv (2374) -> first sentence (first sentence value for each verb key in the OutputVerbDataDictionary) - used for the annotation, second sentence(-"-) - additional sentences, not used further
 
@@ -107,7 +107,9 @@ full_output.txt - all entries of OutputVerbDataDictionary
 
 verb_keys.txt - unique verb occurrences
 
-verb_keys_occurrenceNumber.txt -> verb - #occurrences
+verb_keys_occurrenceNumber.csv -> verb - #occurrences
+
+verbKeyAspect.csv -> English verb with the aspect value of the corresponding Czech Vallex verb
 
 
 - **PrepareFinalFiles**:
