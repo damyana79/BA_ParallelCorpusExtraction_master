@@ -12,7 +12,7 @@ import java.util.*;
 /**
  * parses the czech and the english xml file
  * creates for each book a Map Object with the format:
- * Map \< correspondenceId: sentence\> \>
+ * Map \< correspondenceId: sentence\>
  */
 
 public class CorpusParser {
