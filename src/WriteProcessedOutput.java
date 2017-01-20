@@ -1,5 +1,7 @@
+import com.opencsv.CSVReader;
 import com.opencsv.CSVWriter;
 
+import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
@@ -56,7 +58,7 @@ public class WriteProcessedOutput {
                     Verb firstOutputVerb = firstOutput.verb_en;
                     String[] verbData = new String[]{firstOutputVerb.infinitiv, firstOutputVerb.token, firstOutputVerb.aspect, firstOutput.fullSentence_en};
                     writer_1.writeNext(verbData);
-                    String[] verbAspect = new String[]{firstOutputVerb.infinitiv, firstOutputVerb.aspect};
+                    String[] verbAspect = new String[]{firstOutputVerb.infinitiv, firstOutputVerb.token, firstOutputVerb.aspect};
                     writer_3.writeNext(verbAspect);
                 }
                 if (outputList.size() > 1) {
@@ -131,6 +133,22 @@ public class WriteProcessedOutput {
         }
     }
 
+    //579901 sentences
+    public static void addTotalVerbOccurances(String filename) {
+        Path path = Paths.get(filename);
+        int counter = 0;
+        try (BufferedReader br = Files.newBufferedReader(path);
+             CSVReader reader = new CSVReader(br)) {
+            String[] nextLine;
+            while ((nextLine = reader.readNext()) != null) {
+                counter += Integer.parseInt(nextLine[1]);
+            }
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        System.out.println(counter);
+    }
+
 
     public static void main(String[] args) throws IOException {
         //dictionary with verbs and translations
@@ -156,6 +174,10 @@ public class WriteProcessedOutput {
         WriteProcessedOutput processedOutput = new WriteProcessedOutput();
         //writeVerbKeys(writeKeys, writeKey_occurrenceNumber);
         writeSelectedSentences(writeSelected_1, writeSelected_2, writeVerbAspect);
+
+        //obsolete, counts all sentences that could be extracted from the corpus: 579901
+        String readKeyOccurance = "processed_output/verb_keys_occurrenceNumber.csv";
+        addTotalVerbOccurances(readKeyOccurance);
 
 
     }
