@@ -10,6 +10,13 @@
 
 /processed_output/full_output.txt
 
+#UML images
+*.ucls
+*.eml
+*.userlibraries
+*.png
+*.puml
+
 # Created by https://www.gitignore.io/api/intellij,eclipse,java,windows
 
 ### Intellij ###
