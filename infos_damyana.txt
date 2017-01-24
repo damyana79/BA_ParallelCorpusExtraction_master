@@ -10,4 +10,11 @@ InterCorp (alle automatische Label):
 
 ################################################################
 InterCorp (Vallex): /media/annemarie/Data/Work/Projects/AspectPrediction/Telicity-EN-CZ/BA_CappaCalc_master/BA_CalcAgreement/ComparisonEvaluationVerbs/verbKeyAspect.csv
+[>>>>>>>>>> dieser file wurde von BA_ParallelCorpusExtraction_master/processed_output/verbKeyAspect.csv kopiert; nicht dass du dich wunderst, dass sie gleich heißen - die sind auch gleich]
+[>>>>>>>>>> in diesem Ordner, BA_CalcAgreement/ComparisonEvaluationVerbs, sind Annotationen: item, categoryLabel; da stehen auch file mit annotationen für die die Annotatoren sich einig waren silverStandard_human.csv und auch
+zu diesen Übereinstimmungen dazu auch diese, die mit den vallex labels übereinstimmen dazu in silverStandard_vallex.csv]
+
+
 --> für jedes tschechische Verb, das in Vallex vorkommt --> erstes Satzpaar aus Intercorp, wo mit Hilfe von Glosbe auch die Verben aligniert werden konnte
+[>>>>>>>>>> das steht in BA_ParallelCorpusExtraction_master/processed_output/selected_1.csv - das ist der erste Satz, zu jedem Verb; dieser Dokument wurde zur Erleichterung der Annotation in 14 gesplittet
+also genau diese Sätze wurden manuell annotiert; in full_output.txt stehen alle Sätze, nicht nur die selected]
