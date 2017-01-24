@@ -1,0 +1,13 @@
+MASC (manuell): /media/annemarie/Data/Work/Projects/AspectPrediction/Telicity-EN-CZ/BA_CappaCalc_master/BA_CalcAgreement/all_texts_all_annotators
+
+InterCorp (manuell): /media/annemarie/Data/Work/Projects/AspectPrediction/Telicity-EN-CZ/BA_CappaCalc_master/BA_CalcAgreement/Evaluation_AT_all
+/media/annemarie/Data/Work/Projects/AspectPrediction/Telicity-EN-CZ/BA_CappaCalc_master/BA_CalcAgreement/Evaluation_raw_texts
+
+InterCorp (alle automatische Label):
+/media/annemarie/Data/Work/Projects/AspectPrediction/Telicity-EN-CZ/BA_ParallelCorpusExtraction_master/output_sentences
+-- alle Intercorp-books Dateien, wo Sätze 1-1 aligniert waren und die Verben mit Hilfe von Glosbe aligniert werden konnten unt dann über Vallex ein Label zugewiesen werden konnte
+
+
+################################################################
+InterCorp (Vallex): /media/annemarie/Data/Work/Projects/AspectPrediction/Telicity-EN-CZ/BA_CappaCalc_master/BA_CalcAgreement/ComparisonEvaluationVerbs/verbKeyAspect.csv
+--> für jedes tschechische Verb, das in Vallex vorkommt --> erstes Satzpaar aus Intercorp, wo mit Hilfe von Glosbe auch die Verben aligniert werden konnte
